@@ -1,0 +1,1000 @@
+Data;Tipo Combustível;Quantidade Litros;Preço por Litro;Custo por Litro;Receita;Custo Total;Lucro;Margem;Frentista;Turno;Bomba;Combustivel Por Bomba;Ilha da Bomba;Perda Por Bomba;Valor Perda;Tipo Perda;Status Perda;Produto Loja;Categoria Loja;Quantidade Loja;Preço Produto Loja;Receita Loja;Ativada
+24/06/2016;Diesel;2;R$ 5,04;R$ 4,66;R$ 10,08;R$ 9,32;R$ 0,76;8%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 3,00;R$ 0,00;Não
+22/06/2023;Gasolina;2;R$ 5,92;R$ 4,64;R$ 11,84;R$ 9,28;R$ 2,56;22%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 126,00;Desconto;Com perda;Energético;Bebidas;4;R$ 3,00;R$ 0,00;Não
+24/09/2019;Diesel;4;R$ 5,43;R$ 4,31;R$ 21,72;R$ 17,24;R$ 4,48;21%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;3;R$ 15,00;R$ 0,00;Não
+09/03/2025;Gasolina;3;R$ 5,58;R$ 5,48;R$ 16,74;R$ 16,44;R$ 0,30;2%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 7,00;R$ 21,00;Sim
+02/09/2018;Etanol;4;R$ 3,99;R$ 2,57;R$ 15,96;R$ 10,28;R$ 5,68;36%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 10,00;R$ 0,00;Não
+14/08/2020;Etanol;5;R$ 4,23;R$ 3,37;R$ 21,15;R$ 16,85;R$ 4,30;20%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 5,00;R$ 0,00;Não
+24/04/2020;Diesel;5;R$ 5,22;R$ 4,12;R$ 26,10;R$ 20,60;R$ 5,50;21%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;5;R$ 6,00;R$ 0,00;Não
+11/09/2015;Etanol;1;R$ 3,71;R$ 2,99;R$ 3,71;R$ 2,99;R$ 0,72;19%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;3;R$ 6,00;R$ 0,00;Não
+03/11/2020;Etanol;2;R$ 4,18;R$ 3,00;R$ 8,36;R$ 6,00;R$ 2,36;28%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;3;R$ 15,00;R$ 0,00;Não
+10/11/2022;Diesel;1;R$ 5,78;R$ 4,70;R$ 5,78;R$ 4,70;R$ 1,08;19%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;4;R$ 15,00;R$ 0,00;Não
+16/03/2024;Etanol;4;R$ 4,07;R$ 2,52;R$ 16,28;R$ 10,08;R$ 6,20;38%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;3;R$ 8,00;R$ 0,00;Não
+06/08/2024;Etanol;5;R$ 3,73;R$ 3,11;R$ 18,65;R$ 15,55;R$ 3,10;17%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;4;R$ 8,00;R$ 0,00;Não
+11/05/2020;Etanol;4;R$ 4,50;R$ 2,72;R$ 18,00;R$ 10,88;R$ 7,12;40%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 67,00;Erro abastecimento;Com perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+13/03/2023;Diesel;1;R$ 5,81;R$ 4,86;R$ 5,81;R$ 4,86;R$ 0,95;16%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;3;R$ 25,00;R$ 75,00;Sim
+02/06/2021;Gasolina;3;R$ 5,73;R$ 4,88;R$ 17,19;R$ 14,64;R$ 2,55;15%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 120,00;Desconto;Com perda;Limpador Parabrisa;Automotivo;2;R$ 4,00;R$ 8,00;Sim
+25/02/2015;Gasolina;3;R$ 6,12;R$ 5,47;R$ 18,36;R$ 16,41;R$ 1,95;11%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;4;R$ 4,00;R$ 0,00;Não
+04/04/2019;Diesel;3;R$ 5,62;R$ 4,65;R$ 16,86;R$ 13,95;R$ 2,91;17%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;5;R$ 4,00;R$ 0,00;Não
+15/10/2025;Etanol;2;R$ 4,23;R$ 3,39;R$ 8,46;R$ 6,78;R$ 1,68;20%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;4;R$ 6,00;R$ 0,00;Não
+27/09/2024;Diesel;3;R$ 5,74;R$ 4,90;R$ 17,22;R$ 14,70;R$ 2,52;15%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;3;R$ 3,00;R$ 0,00;Não
+14/09/2018;Etanol;5;R$ 3,65;R$ 2,95;R$ 18,25;R$ 14,75;R$ 3,50;19%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 7,00;R$ 0,00;Não
+22/02/2024;Etanol;4;R$ 3,86;R$ 2,60;R$ 15,44;R$ 10,40;R$ 5,04;33%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;4;R$ 30,00;R$ 120,00;Sim
+21/09/2019;Diesel;5;R$ 5,42;R$ 4,34;R$ 27,10;R$ 21,70;R$ 5,40;20%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;1;R$ 7,00;R$ 0,00;Não
+18/12/2025;Diesel;5;R$ 5,02;R$ 4,89;R$ 25,10;R$ 24,45;R$ 0,65;3%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;5;R$ 8,00;R$ 0,00;Não
+01/03/2017;Gasolina;5;R$ 6,36;R$ 5,13;R$ 31,80;R$ 25,65;R$ 6,15;19%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 8,00;R$ 0,00;Não
+04/07/2020;Diesel;5;R$ 5,57;R$ 4,32;R$ 27,85;R$ 21,60;R$ 6,25;22%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 5,00;R$ 15,00;Sim
+20/01/2025;Etanol;4;R$ 4,44;R$ 2,64;R$ 17,76;R$ 10,56;R$ 7,20;41%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;4;R$ 15,00;R$ 0,00;Não
+15/06/2024;Gasolina;2;R$ 5,61;R$ 4,99;R$ 11,22;R$ 9,98;R$ 1,24;11%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 5,00;R$ 10,00;Sim
+28/11/2021;Etanol;1;R$ 3,50;R$ 3,48;R$ 3,50;R$ 3,48;R$ 0,02;1%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Sim;R$ 189,00;Vazamento;Com perda;Café;Bebidas;2;R$ 30,00;R$ 0,00;Não
+26/04/2021;Gasolina;2;R$ 5,96;R$ 4,65;R$ 11,92;R$ 9,30;R$ 2,62;22%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 8,00;R$ 0,00;Não
+23/10/2022;Gasolina;1;R$ 6,49;R$ 5,24;R$ 6,49;R$ 5,24;R$ 1,25;19%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 10,00;R$ 0,00;Não
+08/03/2016;Diesel;3;R$ 5,02;R$ 4,79;R$ 15,06;R$ 14,37;R$ 0,69;5%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 6,00;R$ 30,00;Sim
+05/11/2018;Etanol;1;R$ 3,70;R$ 3,17;R$ 3,70;R$ 3,17;R$ 0,53;14%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;4;R$ 8,00;R$ 32,00;Sim
+20/12/2015;Etanol;5;R$ 4,40;R$ 3,42;R$ 22,00;R$ 17,10;R$ 4,90;22%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;1;R$ 25,00;R$ 25,00;Sim
+22/09/2018;Etanol;2;R$ 3,84;R$ 3,07;R$ 7,68;R$ 6,14;R$ 1,54;20%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;1;R$ 6,00;R$ 0,00;Não
+28/08/2019;Gasolina;5;R$ 5,60;R$ 5,50;R$ 28,00;R$ 27,50;R$ 0,50;2%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 30,00;R$ 60,00;Sim
+05/04/2020;Gasolina;4;R$ 6,39;R$ 4,92;R$ 25,56;R$ 19,68;R$ 5,88;23%;João;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 264,00;Vazamento;Com perda;Cigarro;Conveniência;3;R$ 30,00;R$ 90,00;Sim
+13/06/2018;Gasolina;2;R$ 6,40;R$ 5,26;R$ 12,80;R$ 10,52;R$ 2,28;18%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;5;R$ 30,00;R$ 0,00;Não
+02/02/2019;Gasolina;1;R$ 5,67;R$ 4,77;R$ 5,67;R$ 4,77;R$ 0,90;16%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 241,00;Vazamento;Com perda;Água;Bebidas;1;R$ 3,00;R$ 0,00;Não
+18/01/2021;Diesel;4;R$ 5,87;R$ 4,12;R$ 23,48;R$ 16,48;R$ 7,00;30%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;2;R$ 8,00;R$ 0,00;Não
+19/10/2019;Etanol;4;R$ 3,65;R$ 2,54;R$ 14,60;R$ 10,16;R$ 4,44;30%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 10,00;R$ 0,00;Não
+21/04/2024;Etanol;1;R$ 4,32;R$ 3,36;R$ 4,32;R$ 3,36;R$ 0,96;22%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;2;R$ 4,00;R$ 8,00;Sim
+10/03/2021;Gasolina;2;R$ 5,94;R$ 5,09;R$ 11,88;R$ 10,18;R$ 1,70;14%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 25,00;R$ 0,00;Não
+19/08/2022;Etanol;4;R$ 3,87;R$ 2,64;R$ 15,48;R$ 10,56;R$ 4,92;32%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;4;R$ 4,00;R$ 0,00;Não
+18/08/2018;Diesel;3;R$ 5,43;R$ 4,32;R$ 16,29;R$ 12,96;R$ 3,33;20%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;5;R$ 30,00;R$ 150,00;Sim
+02/12/2023;Diesel;4;R$ 5,13;R$ 4,40;R$ 20,52;R$ 17,60;R$ 2,92;14%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 0,00;Não
+07/06/2025;Etanol;2;R$ 3,86;R$ 2,51;R$ 7,72;R$ 5,02;R$ 2,70;35%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 6,00;R$ 0,00;Não
+01/10/2015;Diesel;1;R$ 5,11;R$ 4,62;R$ 5,11;R$ 4,62;R$ 0,49;10%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;2;R$ 15,00;R$ 0,00;Não
+21/12/2022;Gasolina;4;R$ 6,26;R$ 5,34;R$ 25,04;R$ 21,36;R$ 3,68;15%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 5,00;R$ 25,00;Sim
+14/07/2024;Etanol;2;R$ 4,25;R$ 2,62;R$ 8,50;R$ 5,24;R$ 3,26;38%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 7,00;R$ 0,00;Não
+01/07/2018;Diesel;2;R$ 5,54;R$ 4,96;R$ 11,08;R$ 9,92;R$ 1,16;10%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;5;R$ 10,00;R$ 50,00;Sim
+04/08/2017;Gasolina;4;R$ 5,66;R$ 5,03;R$ 22,64;R$ 20,12;R$ 2,52;11%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 4,00;R$ 0,00;Não
+25/10/2015;Diesel;5;R$ 5,70;R$ 4,74;R$ 28,50;R$ 23,70;R$ 4,80;17%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;3;R$ 15,00;R$ 0,00;Não
+12/03/2024;Etanol;4;R$ 4,10;R$ 3,06;R$ 16,40;R$ 12,24;R$ 4,16;25%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+08/04/2025;Etanol;2;R$ 3,86;R$ 3,32;R$ 7,72;R$ 6,64;R$ 1,08;14%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 8,00;R$ 0,00;Não
+06/03/2023;Diesel;1;R$ 5,22;R$ 4,50;R$ 5,22;R$ 4,50;R$ 0,72;14%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 15,00;R$ 75,00;Sim
+23/05/2021;Gasolina;5;R$ 5,75;R$ 4,92;R$ 28,75;R$ 24,60;R$ 4,15;14%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;1;R$ 6,00;R$ 0,00;Não
+05/09/2015;Diesel;4;R$ 5,57;R$ 4,36;R$ 22,28;R$ 17,44;R$ 4,84;22%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Sim;R$ 318,00;Vazamento;Com perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 0,00;Não
+22/03/2020;Diesel;3;R$ 5,33;R$ 4,16;R$ 15,99;R$ 12,48;R$ 3,51;22%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 3,00;R$ 0,00;Não
+19/08/2020;Etanol;4;R$ 3,74;R$ 2,63;R$ 14,96;R$ 10,52;R$ 4,44;30%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;5;R$ 25,00;R$ 125,00;Sim
+10/06/2017;Etanol;1;R$ 3,97;R$ 2,98;R$ 3,97;R$ 2,98;R$ 0,99;25%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 5,00;R$ 10,00;Sim
+11/03/2021;Etanol;4;R$ 4,49;R$ 3,05;R$ 17,96;R$ 12,20;R$ 5,76;32%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;1;R$ 25,00;R$ 0,00;Não
+24/02/2019;Diesel;1;R$ 5,01;R$ 4,59;R$ 5,01;R$ 4,59;R$ 0,42;8%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;2;R$ 30,00;R$ 60,00;Sim
+22/12/2024;Etanol;5;R$ 4,19;R$ 2,94;R$ 20,95;R$ 14,70;R$ 6,25;30%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 10,00;R$ 0,00;Não
+23/01/2020;Diesel;1;R$ 5,62;R$ 4,15;R$ 5,62;R$ 4,15;R$ 1,47;26%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;4;R$ 8,00;R$ 0,00;Não
+07/10/2024;Gasolina;5;R$ 5,83;R$ 4,78;R$ 29,15;R$ 23,90;R$ 5,25;18%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 4,00;R$ 20,00;Sim
+12/04/2015;Diesel;3;R$ 5,25;R$ 4,14;R$ 15,75;R$ 12,42;R$ 3,33;21%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 10,00;R$ 40,00;Sim
+23/06/2019;Gasolina;4;R$ 5,94;R$ 4,95;R$ 23,76;R$ 19,80;R$ 3,96;17%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;2;R$ 7,00;R$ 0,00;Não
+21/06/2019;Gasolina;4;R$ 5,81;R$ 5,33;R$ 23,24;R$ 21,32;R$ 1,92;8%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 3,00;R$ 15,00;Sim
+22/06/2018;Etanol;4;R$ 3,85;R$ 2,56;R$ 15,40;R$ 10,24;R$ 5,16;34%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Sim;R$ 354,00;Falta de troco;Com perda;Limpador Parabrisa;Automotivo;5;R$ 25,00;R$ 0,00;Não
+01/05/2015;Diesel;2;R$ 5,88;R$ 4,67;R$ 11,76;R$ 9,34;R$ 2,42;21%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;2;R$ 6,00;R$ 12,00;Sim
+17/09/2017;Diesel;3;R$ 5,23;R$ 4,37;R$ 15,69;R$ 13,11;R$ 2,58;16%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;2;R$ 3,00;R$ 0,00;Não
+14/03/2015;Diesel;1;R$ 5,14;R$ 4,28;R$ 5,14;R$ 4,28;R$ 0,86;17%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 8,00;R$ 24,00;Sim
+22/08/2018;Etanol;1;R$ 3,99;R$ 3,14;R$ 3,99;R$ 3,14;R$ 0,85;21%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 15,00;Sim
+23/12/2019;Etanol;4;R$ 3,53;R$ 3,35;R$ 14,12;R$ 13,40;R$ 0,72;5%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;3;R$ 7,00;R$ 0,00;Não
+20/08/2016;Gasolina;1;R$ 6,10;R$ 5,45;R$ 6,10;R$ 5,45;R$ 0,65;11%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;4;R$ 6,00;R$ 0,00;Não
+05/02/2022;Gasolina;4;R$ 5,57;R$ 4,59;R$ 22,28;R$ 18,36;R$ 3,92;18%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;4;R$ 25,00;R$ 100,00;Sim
+25/05/2017;Etanol;1;R$ 3,58;R$ 3,40;R$ 3,58;R$ 3,40;R$ 0,18;5%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;2;R$ 3,00;R$ 6,00;Sim
+04/10/2015;Etanol;2;R$ 3,75;R$ 2,53;R$ 7,50;R$ 5,06;R$ 2,44;33%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;5;R$ 5,00;R$ 0,00;Não
+22/02/2025;Diesel;3;R$ 5,23;R$ 4,79;R$ 15,69;R$ 14,37;R$ 1,32;8%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 30,00;R$ 0,00;Não
+24/04/2017;Gasolina;2;R$ 5,64;R$ 5,30;R$ 11,28;R$ 10,60;R$ 0,68;6%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;1;R$ 25,00;R$ 0,00;Não
+07/11/2017;Diesel;5;R$ 5,35;R$ 4,91;R$ 26,75;R$ 24,55;R$ 2,20;8%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 129,00;Vazamento;Com perda;Limpador Parabrisa;Automotivo;5;R$ 30,00;R$ 0,00;Não
+13/04/2018;Etanol;5;R$ 3,84;R$ 2,97;R$ 19,20;R$ 14,85;R$ 4,35;23%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;1;R$ 25,00;R$ 25,00;Sim
+13/01/2022;Diesel;5;R$ 5,88;R$ 4,35;R$ 29,40;R$ 21,75;R$ 7,65;26%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 30,00;R$ 0,00;Não
+12/12/2020;Diesel;1;R$ 5,06;R$ 4,37;R$ 5,06;R$ 4,37;R$ 0,69;14%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 3,00;R$ 0,00;Não
+15/01/2023;Gasolina;4;R$ 6,50;R$ 4,86;R$ 26,00;R$ 19,44;R$ 6,56;25%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;3;R$ 30,00;R$ 90,00;Sim
+03/03/2022;Diesel;5;R$ 5,26;R$ 4,55;R$ 26,30;R$ 22,75;R$ 3,55;13%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 3,00;R$ 0,00;Não
+14/06/2020;Diesel;3;R$ 5,08;R$ 4,36;R$ 15,24;R$ 13,08;R$ 2,16;14%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 10,00;R$ 50,00;Sim
+04/03/2025;Diesel;1;R$ 5,99;R$ 4,71;R$ 5,99;R$ 4,71;R$ 1,28;21%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;2;R$ 10,00;R$ 0,00;Não
+19/03/2023;Etanol;4;R$ 4,09;R$ 2,59;R$ 16,36;R$ 10,36;R$ 6,00;37%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 320,00;Desconto;Com perda;Salgadinho;Alimentos;5;R$ 4,00;R$ 20,00;Sim
+22/06/2020;Diesel;2;R$ 5,79;R$ 4,91;R$ 11,58;R$ 9,82;R$ 1,76;15%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 25,00;R$ 0,00;Não
+05/02/2015;Etanol;3;R$ 3,90;R$ 2,56;R$ 11,70;R$ 7,68;R$ 4,02;34%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;5;R$ 5,00;R$ 0,00;Não
+03/03/2025;Diesel;5;R$ 5,29;R$ 4,53;R$ 26,45;R$ 22,65;R$ 3,80;14%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 4,00;R$ 0,00;Não
+22/03/2015;Etanol;1;R$ 3,88;R$ 3,01;R$ 3,88;R$ 3,01;R$ 0,87;22%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 7,00;R$ 35,00;Sim
+04/06/2017;Etanol;3;R$ 3,86;R$ 3,36;R$ 11,58;R$ 10,08;R$ 1,50;13%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;1;R$ 30,00;R$ 30,00;Sim
+17/05/2018;Etanol;3;R$ 3,92;R$ 3,37;R$ 11,76;R$ 10,11;R$ 1,65;14%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;1;R$ 15,00;R$ 15,00;Sim
+03/05/2018;Diesel;3;R$ 5,47;R$ 4,84;R$ 16,41;R$ 14,52;R$ 1,89;12%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 0,00;Não
+04/01/2025;Diesel;4;R$ 5,51;R$ 4,94;R$ 22,04;R$ 19,76;R$ 2,28;10%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;2;R$ 6,00;R$ 0,00;Não
+20/01/2020;Diesel;3;R$ 5,15;R$ 4,50;R$ 15,45;R$ 13,50;R$ 1,95;13%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;1;R$ 7,00;R$ 7,00;Sim
+03/01/2018;Diesel;3;R$ 5,14;R$ 4,50;R$ 15,42;R$ 13,50;R$ 1,92;12%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 0,00;Não
+16/03/2020;Diesel;5;R$ 5,95;R$ 4,88;R$ 29,75;R$ 24,40;R$ 5,35;18%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 6,00;R$ 0,00;Não
+13/12/2024;Diesel;3;R$ 5,85;R$ 4,22;R$ 17,55;R$ 12,66;R$ 4,89;28%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;4;R$ 25,00;R$ 100,00;Sim
+07/06/2017;Etanol;1;R$ 4,02;R$ 3,04;R$ 4,02;R$ 3,04;R$ 0,98;24%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 10,00;R$ 0,00;Não
+17/07/2022;Etanol;4;R$ 4,33;R$ 3,36;R$ 17,32;R$ 13,44;R$ 3,88;22%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 6,00;R$ 0,00;Não
+19/08/2024;Gasolina;1;R$ 5,50;R$ 4,98;R$ 5,50;R$ 4,98;R$ 0,52;9%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 7,00;R$ 0,00;Não
+09/03/2024;Etanol;4;R$ 4,01;R$ 2,80;R$ 16,04;R$ 11,20;R$ 4,84;30%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;3;R$ 6,00;R$ 18,00;Sim
+06/01/2025;Diesel;5;R$ 5,46;R$ 4,73;R$ 27,30;R$ 23,65;R$ 3,65;13%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;1;R$ 5,00;R$ 5,00;Sim
+21/06/2021;Diesel;2;R$ 5,73;R$ 4,46;R$ 11,46;R$ 8,92;R$ 2,54;22%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 3,00;R$ 0,00;Não
+25/09/2023;Etanol;1;R$ 3,63;R$ 2,59;R$ 3,63;R$ 2,59;R$ 1,04;29%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 10,00;R$ 40,00;Sim
+04/05/2016;Diesel;1;R$ 5,22;R$ 4,83;R$ 5,22;R$ 4,83;R$ 0,39;7%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 152,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;1;R$ 15,00;R$ 0,00;Não
+26/11/2019;Gasolina;1;R$ 6,21;R$ 5,48;R$ 6,21;R$ 5,48;R$ 0,73;12%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;3;R$ 25,00;R$ 0,00;Não
+18/11/2016;Etanol;4;R$ 3,86;R$ 3,25;R$ 15,44;R$ 13,00;R$ 2,44;16%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 5,00;R$ 0,00;Não
+23/02/2015;Diesel;1;R$ 5,41;R$ 4,60;R$ 5,41;R$ 4,60;R$ 0,81;15%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 10,00;R$ 0,00;Não
+24/06/2022;Etanol;5;R$ 4,05;R$ 2,93;R$ 20,25;R$ 14,65;R$ 5,60;28%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;2;R$ 4,00;R$ 0,00;Não
+22/02/2015;Etanol;4;R$ 4,36;R$ 3,46;R$ 17,44;R$ 13,84;R$ 3,60;21%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 292,00;Desconto;Com perda;Aditivo;Automotivo;1;R$ 15,00;R$ 15,00;Sim
+17/10/2025;Diesel;1;R$ 5,54;R$ 4,81;R$ 5,54;R$ 4,81;R$ 0,73;13%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 6,00;R$ 0,00;Não
+15/02/2018;Diesel;4;R$ 5,47;R$ 4,68;R$ 21,88;R$ 18,72;R$ 3,16;14%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Sim;R$ 315,00;Falta de troco;Com perda;Cigarro;Conveniência;3;R$ 30,00;R$ 0,00;Não
+14/03/2018;Gasolina;3;R$ 5,80;R$ 5,32;R$ 17,40;R$ 15,96;R$ 1,44;8%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;2;R$ 5,00;R$ 0,00;Não
+13/03/2019;Etanol;4;R$ 4,07;R$ 2,57;R$ 16,28;R$ 10,28;R$ 6,00;37%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 7,00;R$ 0,00;Não
+17/02/2022;Gasolina;2;R$ 5,55;R$ 5,34;R$ 11,10;R$ 10,68;R$ 0,42;4%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;3;R$ 25,00;R$ 0,00;Não
+26/03/2017;Gasolina;4;R$ 6,13;R$ 4,99;R$ 24,52;R$ 19,96;R$ 4,56;19%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 7,00;R$ 14,00;Sim
+01/02/2015;Gasolina;2;R$ 5,92;R$ 5,25;R$ 11,84;R$ 10,50;R$ 1,34;11%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 25,00;R$ 50,00;Sim
+03/08/2016;Diesel;1;R$ 5,50;R$ 4,34;R$ 5,50;R$ 4,34;R$ 1,16;21%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 15,00;R$ 0,00;Não
+27/11/2025;Diesel;2;R$ 5,36;R$ 4,89;R$ 10,72;R$ 9,78;R$ 0,94;9%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 264,00;Vazamento;Com perda;Óleo Motor;Automotivo;1;R$ 10,00;R$ 0,00;Não
+11/01/2022;Diesel;4;R$ 5,94;R$ 4,90;R$ 23,76;R$ 19,60;R$ 4,16;18%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 4,00;R$ 0,00;Não
+07/02/2023;Diesel;1;R$ 5,12;R$ 4,39;R$ 5,12;R$ 4,39;R$ 0,73;14%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;1;R$ 6,00;R$ 6,00;Sim
+21/02/2017;Diesel;2;R$ 5,22;R$ 4,50;R$ 10,44;R$ 9,00;R$ 1,44;14%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Sim;R$ 435,00;Erro abastecimento;Com perda;Café;Bebidas;4;R$ 3,00;R$ 0,00;Não
+10/09/2016;Diesel;1;R$ 5,45;R$ 4,21;R$ 5,45;R$ 4,21;R$ 1,24;23%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 321,00;Erro abastecimento;Com perda;Limpador Parabrisa;Automotivo;1;R$ 5,00;R$ 0,00;Não
+23/05/2025;Diesel;2;R$ 5,43;R$ 4,41;R$ 10,86;R$ 8,82;R$ 2,04;19%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 4,00;R$ 0,00;Não
+07/02/2025;Etanol;4;R$ 3,87;R$ 2,78;R$ 15,48;R$ 11,12;R$ 4,36;28%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 30,00;R$ 0,00;Não
+12/01/2023;Etanol;2;R$ 4,13;R$ 2,86;R$ 8,26;R$ 5,72;R$ 2,54;31%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;1;R$ 7,00;R$ 0,00;Não
+23/05/2021;Etanol;1;R$ 3,60;R$ 3,40;R$ 3,60;R$ 3,40;R$ 0,20;6%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;2;R$ 6,00;R$ 0,00;Não
+09/11/2019;Gasolina;4;R$ 6,08;R$ 5,29;R$ 24,32;R$ 21,16;R$ 3,16;13%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 7,00;R$ 0,00;Não
+11/01/2019;Etanol;4;R$ 3,66;R$ 3,27;R$ 14,64;R$ 13,08;R$ 1,56;11%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;2;R$ 3,00;R$ 0,00;Não
+01/02/2024;Diesel;4;R$ 5,43;R$ 4,04;R$ 21,72;R$ 16,16;R$ 5,56;26%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;2;R$ 8,00;R$ 16,00;Sim
+11/06/2018;Diesel;5;R$ 5,00;R$ 4,55;R$ 25,00;R$ 22,75;R$ 2,25;9%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;5;R$ 3,00;R$ 0,00;Não
+08/11/2019;Etanol;4;R$ 4,01;R$ 2,73;R$ 16,04;R$ 10,92;R$ 5,12;32%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;5;R$ 3,00;R$ 15,00;Sim
+05/05/2022;Etanol;5;R$ 3,80;R$ 2,63;R$ 19,00;R$ 13,15;R$ 5,85;31%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 25,00;R$ 0,00;Não
+16/04/2019;Gasolina;4;R$ 5,68;R$ 5,00;R$ 22,72;R$ 20,00;R$ 2,72;12%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;4;R$ 10,00;R$ 40,00;Sim
+22/03/2023;Gasolina;5;R$ 5,76;R$ 5,48;R$ 28,80;R$ 27,40;R$ 1,40;5%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;4;R$ 8,00;R$ 0,00;Não
+27/03/2024;Diesel;1;R$ 5,98;R$ 4,68;R$ 5,98;R$ 4,68;R$ 1,30;22%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 258,00;Erro abastecimento;Com perda;Limpador Parabrisa;Automotivo;3;R$ 15,00;R$ 0,00;Não
+10/01/2016;Diesel;1;R$ 5,02;R$ 4,13;R$ 5,02;R$ 4,13;R$ 0,89;18%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 5,00;R$ 0,00;Não
+21/05/2024;Gasolina;3;R$ 6,17;R$ 4,97;R$ 18,51;R$ 14,91;R$ 3,60;19%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Sim;R$ 99,00;Vazamento;Com perda;Cigarro;Conveniência;3;R$ 10,00;R$ 0,00;Não
+18/04/2016;Diesel;5;R$ 5,00;R$ 4,50;R$ 25,00;R$ 22,50;R$ 2,50;10%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 10,00;R$ 0,00;Não
+28/06/2023;Gasolina;4;R$ 5,78;R$ 5,36;R$ 23,12;R$ 21,44;R$ 1,68;7%;João;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 377,00;Vazamento;Com perda;Energético;Bebidas;3;R$ 15,00;R$ 0,00;Não
+20/05/2025;Etanol;5;R$ 3,51;R$ 2,82;R$ 17,55;R$ 14,10;R$ 3,45;20%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 30,00;R$ 150,00;Sim
+11/08/2022;Gasolina;5;R$ 6,17;R$ 4,59;R$ 30,85;R$ 22,95;R$ 7,90;26%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 25,00;R$ 0,00;Não
+12/05/2023;Diesel;3;R$ 5,49;R$ 4,90;R$ 16,47;R$ 14,70;R$ 1,77;11%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;2;R$ 6,00;R$ 12,00;Sim
+28/05/2024;Diesel;1;R$ 5,25;R$ 4,64;R$ 5,25;R$ 4,64;R$ 0,61;12%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 4,00;R$ 0,00;Não
+17/06/2015;Gasolina;5;R$ 6,48;R$ 4,70;R$ 32,40;R$ 23,50;R$ 8,90;27%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;1;R$ 25,00;R$ 0,00;Não
+17/05/2015;Etanol;3;R$ 4,22;R$ 3,37;R$ 12,66;R$ 10,11;R$ 2,55;20%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 8,00;R$ 0,00;Não
+08/01/2017;Diesel;2;R$ 5,26;R$ 4,60;R$ 10,52;R$ 9,20;R$ 1,32;13%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 7,00;R$ 0,00;Não
+08/07/2017;Etanol;5;R$ 3,98;R$ 2,88;R$ 19,90;R$ 14,40;R$ 5,50;28%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;1;R$ 6,00;R$ 0,00;Não
+01/03/2015;Etanol;3;R$ 3,73;R$ 2,57;R$ 11,19;R$ 7,71;R$ 3,48;31%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 30,00;R$ 0,00;Não
+03/09/2016;Diesel;2;R$ 5,74;R$ 4,00;R$ 11,48;R$ 8,00;R$ 3,48;30%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;2;R$ 3,00;R$ 6,00;Sim
+24/10/2017;Diesel;1;R$ 5,70;R$ 4,52;R$ 5,70;R$ 4,52;R$ 1,18;21%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;4;R$ 8,00;R$ 0,00;Não
+04/06/2023;Diesel;1;R$ 5,80;R$ 4,92;R$ 5,80;R$ 4,92;R$ 0,88;15%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;3;R$ 15,00;R$ 0,00;Não
+14/09/2025;Diesel;5;R$ 5,83;R$ 4,79;R$ 29,15;R$ 23,95;R$ 5,20;18%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 307,00;Vazamento;Com perda;Salgadinho;Alimentos;2;R$ 3,00;R$ 0,00;Não
+24/12/2019;Etanol;4;R$ 3,50;R$ 2,62;R$ 14,00;R$ 10,48;R$ 3,52;25%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;1;R$ 6,00;R$ 0,00;Não
+14/01/2021;Etanol;2;R$ 4,05;R$ 2,91;R$ 8,10;R$ 5,82;R$ 2,28;28%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 7,00;R$ 35,00;Sim
+17/03/2025;Diesel;5;R$ 5,21;R$ 4,31;R$ 26,05;R$ 21,55;R$ 4,50;17%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;1;R$ 5,00;R$ 5,00;Sim
+12/08/2017;Gasolina;1;R$ 6,15;R$ 4,92;R$ 6,15;R$ 4,92;R$ 1,23;20%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 8,00;R$ 0,00;Não
+02/06/2024;Etanol;4;R$ 4,29;R$ 3,23;R$ 17,16;R$ 12,92;R$ 4,24;25%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 15,00;Sim
+08/04/2022;Etanol;4;R$ 4,42;R$ 3,04;R$ 17,68;R$ 12,16;R$ 5,52;31%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 7,00;R$ 21,00;Sim
+11/09/2023;Etanol;5;R$ 4,09;R$ 3,21;R$ 20,45;R$ 16,05;R$ 4,40;22%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;4;R$ 4,00;R$ 0,00;Não
+18/12/2017;Diesel;5;R$ 5,97;R$ 4,63;R$ 29,85;R$ 23,15;R$ 6,70;22%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;4;R$ 8,00;R$ 32,00;Sim
+24/10/2022;Etanol;1;R$ 4,11;R$ 3,47;R$ 4,11;R$ 3,47;R$ 0,64;16%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;1;R$ 30,00;R$ 0,00;Não
+08/12/2025;Gasolina;1;R$ 6,00;R$ 5,28;R$ 6,00;R$ 5,28;R$ 0,72;12%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 125,00;Sim
+24/02/2018;Etanol;3;R$ 3,68;R$ 2,54;R$ 11,04;R$ 7,62;R$ 3,42;31%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;5;R$ 6,00;R$ 0,00;Não
+01/12/2023;Etanol;3;R$ 4,31;R$ 2,67;R$ 12,93;R$ 8,01;R$ 4,92;38%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;2;R$ 3,00;R$ 6,00;Sim
+02/09/2022;Diesel;1;R$ 5,23;R$ 4,62;R$ 5,23;R$ 4,62;R$ 0,61;12%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 8,00;R$ 0,00;Não
+14/05/2023;Etanol;2;R$ 4,20;R$ 2,97;R$ 8,40;R$ 5,94;R$ 2,46;29%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 446,00;Desconto;Com perda;Limpador Parabrisa;Automotivo;1;R$ 25,00;R$ 0,00;Não
+15/01/2025;Etanol;3;R$ 4,10;R$ 2,64;R$ 12,30;R$ 7,92;R$ 4,38;36%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;5;R$ 10,00;R$ 0,00;Não
+16/01/2024;Diesel;2;R$ 5,46;R$ 4,20;R$ 10,92;R$ 8,40;R$ 2,52;23%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 82,00;Desconto;Com perda;Café;Bebidas;1;R$ 7,00;R$ 0,00;Não
+19/04/2023;Etanol;4;R$ 4,09;R$ 3,02;R$ 16,36;R$ 12,08;R$ 4,28;26%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 15,00;R$ 0,00;Não
+05/05/2020;Diesel;2;R$ 5,24;R$ 4,19;R$ 10,48;R$ 8,38;R$ 2,10;20%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Sim;R$ 430,00;Desconto;Com perda;Chocolate;Alimentos;5;R$ 7,00;R$ 35,00;Sim
+14/07/2020;Etanol;1;R$ 3,81;R$ 3,24;R$ 3,81;R$ 3,24;R$ 0,57;15%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;5;R$ 8,00;R$ 0,00;Não
+05/02/2021;Diesel;4;R$ 5,12;R$ 4,30;R$ 20,48;R$ 17,20;R$ 3,28;16%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 4,00;R$ 20,00;Sim
+06/02/2020;Gasolina;5;R$ 6,30;R$ 5,38;R$ 31,50;R$ 26,90;R$ 4,60;15%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;2;R$ 7,00;R$ 0,00;Não
+15/03/2023;Gasolina;5;R$ 6,28;R$ 5,15;R$ 31,40;R$ 25,75;R$ 5,65;18%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;4;R$ 10,00;R$ 40,00;Sim
+12/03/2019;Etanol;4;R$ 3,92;R$ 2,58;R$ 15,68;R$ 10,32;R$ 5,36;34%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 16,00;Sim
+22/02/2022;Gasolina;2;R$ 6,02;R$ 5,01;R$ 12,04;R$ 10,02;R$ 2,02;17%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;5;R$ 5,00;R$ 0,00;Não
+08/09/2020;Etanol;4;R$ 4,03;R$ 2,99;R$ 16,12;R$ 11,96;R$ 4,16;26%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 4,00;R$ 0,00;Não
+07/11/2015;Etanol;5;R$ 3,91;R$ 2,83;R$ 19,55;R$ 14,15;R$ 5,40;28%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;3;R$ 25,00;R$ 0,00;Não
+02/05/2015;Etanol;2;R$ 4,18;R$ 3,29;R$ 8,36;R$ 6,58;R$ 1,78;21%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;3;R$ 8,00;R$ 0,00;Não
+03/02/2020;Gasolina;3;R$ 6,01;R$ 4,77;R$ 18,03;R$ 14,31;R$ 3,72;21%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;1;R$ 7,00;R$ 7,00;Sim
+23/06/2025;Gasolina;1;R$ 5,58;R$ 4,80;R$ 5,58;R$ 4,80;R$ 0,78;14%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Sim;R$ 277,00;Desconto;Com perda;Óleo Motor;Automotivo;1;R$ 15,00;R$ 0,00;Não
+09/11/2021;Gasolina;2;R$ 6,49;R$ 5,23;R$ 12,98;R$ 10,46;R$ 2,52;19%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 15,00;R$ 60,00;Sim
+20/03/2015;Gasolina;3;R$ 5,59;R$ 4,81;R$ 16,77;R$ 14,43;R$ 2,34;14%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 7,00;R$ 0,00;Não
+04/09/2015;Diesel;3;R$ 5,43;R$ 4,01;R$ 16,29;R$ 12,03;R$ 4,26;26%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 6,00;R$ 0,00;Não
+09/09/2021;Etanol;1;R$ 3,95;R$ 2,53;R$ 3,95;R$ 2,53;R$ 1,42;36%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 10,00;R$ 0,00;Não
+12/08/2015;Gasolina;2;R$ 6,36;R$ 4,73;R$ 12,72;R$ 9,46;R$ 3,26;26%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 5,00;R$ 10,00;Sim
+02/07/2023;Etanol;4;R$ 4,33;R$ 3,34;R$ 17,32;R$ 13,36;R$ 3,96;23%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 494,00;Falta de troco;Com perda;Limpador Parabrisa;Automotivo;2;R$ 3,00;R$ 0,00;Não
+21/12/2021;Diesel;2;R$ 5,62;R$ 4,41;R$ 11,24;R$ 8,82;R$ 2,42;22%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;1;R$ 4,00;R$ 0,00;Não
+16/06/2022;Diesel;1;R$ 5,31;R$ 4,54;R$ 5,31;R$ 4,54;R$ 0,77;15%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Sim;R$ 61,00;Falta de troco;Com perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+11/08/2015;Gasolina;3;R$ 6,02;R$ 5,12;R$ 18,06;R$ 15,36;R$ 2,70;15%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;5;R$ 15,00;R$ 0,00;Não
+11/03/2017;Diesel;5;R$ 5,81;R$ 4,03;R$ 29,05;R$ 20,15;R$ 8,90;31%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;1;R$ 30,00;R$ 0,00;Não
+14/02/2025;Diesel;5;R$ 5,17;R$ 4,69;R$ 25,85;R$ 23,45;R$ 2,40;9%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 6,00;R$ 24,00;Sim
+03/05/2022;Diesel;5;R$ 5,74;R$ 4,35;R$ 28,70;R$ 21,75;R$ 6,95;24%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 8,00;R$ 16,00;Sim
+02/10/2015;Diesel;5;R$ 5,80;R$ 4,29;R$ 29,00;R$ 21,45;R$ 7,55;26%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 25,00;R$ 0,00;Não
+14/01/2023;Diesel;2;R$ 5,76;R$ 4,66;R$ 11,52;R$ 9,32;R$ 2,20;19%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Sim;R$ 410,00;Falta de troco;Com perda;Café;Bebidas;1;R$ 6,00;R$ 0,00;Não
+13/11/2022;Diesel;3;R$ 5,12;R$ 4,09;R$ 15,36;R$ 12,27;R$ 3,09;20%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;2;R$ 8,00;R$ 0,00;Não
+27/10/2016;Diesel;2;R$ 5,39;R$ 4,99;R$ 10,78;R$ 9,98;R$ 0,80;7%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 24,00;Sim
+13/01/2024;Etanol;5;R$ 4,40;R$ 3,07;R$ 22,00;R$ 15,35;R$ 6,65;30%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;4;R$ 4,00;R$ 0,00;Não
+17/10/2022;Gasolina;1;R$ 5,61;R$ 5,13;R$ 5,61;R$ 5,13;R$ 0,48;9%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;4;R$ 3,00;R$ 0,00;Não
+28/02/2017;Gasolina;4;R$ 5,91;R$ 5,37;R$ 23,64;R$ 21,48;R$ 2,16;9%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 6,00;R$ 0,00;Não
+25/08/2022;Gasolina;1;R$ 5,55;R$ 4,51;R$ 5,55;R$ 4,51;R$ 1,04;19%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 6,00;R$ 6,00;Sim
+21/01/2017;Etanol;2;R$ 3,79;R$ 2,75;R$ 7,58;R$ 5,50;R$ 2,08;27%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 15,00;R$ 0,00;Não
+28/10/2025;Gasolina;1;R$ 5,59;R$ 4,97;R$ 5,59;R$ 4,97;R$ 0,62;11%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 5,00;R$ 10,00;Sim
+15/11/2017;Diesel;3;R$ 5,10;R$ 4,79;R$ 15,30;R$ 14,37;R$ 0,93;6%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;1;R$ 8,00;R$ 0,00;Não
+10/03/2023;Etanol;3;R$ 3,67;R$ 3,05;R$ 11,01;R$ 9,15;R$ 1,86;17%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+10/09/2016;Gasolina;1;R$ 5,84;R$ 5,13;R$ 5,84;R$ 5,13;R$ 0,71;12%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;5;R$ 6,00;R$ 30,00;Sim
+11/10/2018;Diesel;3;R$ 5,45;R$ 4,54;R$ 16,35;R$ 13,62;R$ 2,73;17%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 5,00;R$ 0,00;Não
+22/02/2022;Diesel;2;R$ 5,32;R$ 4,00;R$ 10,64;R$ 8,00;R$ 2,64;25%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 15,00;R$ 75,00;Sim
+13/04/2023;Etanol;4;R$ 4,35;R$ 3,06;R$ 17,40;R$ 12,24;R$ 5,16;30%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;3;R$ 3,00;R$ 0,00;Não
+07/03/2018;Etanol;1;R$ 3,93;R$ 3,21;R$ 3,93;R$ 3,21;R$ 0,72;18%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 4,00;R$ 8,00;Sim
+24/10/2017;Etanol;5;R$ 3,62;R$ 3,01;R$ 18,10;R$ 15,05;R$ 3,05;17%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 0,00;Não
+05/02/2015;Diesel;1;R$ 5,10;R$ 4,91;R$ 5,10;R$ 4,91;R$ 0,19;4%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;2;R$ 30,00;R$ 0,00;Não
+24/02/2021;Diesel;1;R$ 5,12;R$ 4,58;R$ 5,12;R$ 4,58;R$ 0,54;11%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 4,00;R$ 0,00;Não
+17/11/2015;Gasolina;3;R$ 5,83;R$ 4,83;R$ 17,49;R$ 14,49;R$ 3,00;17%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;4;R$ 10,00;R$ 0,00;Não
+26/02/2019;Etanol;3;R$ 4,22;R$ 2,68;R$ 12,66;R$ 8,04;R$ 4,62;36%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 5,00;R$ 0,00;Não
+26/03/2017;Diesel;3;R$ 5,52;R$ 4,60;R$ 16,56;R$ 13,80;R$ 2,76;17%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+27/11/2022;Diesel;1;R$ 5,11;R$ 4,72;R$ 5,11;R$ 4,72;R$ 0,39;8%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 6,00;R$ 0,00;Não
+18/03/2024;Diesel;5;R$ 5,81;R$ 4,17;R$ 29,05;R$ 20,85;R$ 8,20;28%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;2;R$ 25,00;R$ 0,00;Não
+09/01/2021;Etanol;3;R$ 3,89;R$ 3,21;R$ 11,67;R$ 9,63;R$ 2,04;17%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;3;R$ 6,00;R$ 0,00;Não
+05/09/2019;Diesel;1;R$ 5,44;R$ 4,18;R$ 5,44;R$ 4,18;R$ 1,26;23%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;5;R$ 7,00;R$ 0,00;Não
+10/11/2020;Gasolina;5;R$ 5,55;R$ 4,53;R$ 27,75;R$ 22,65;R$ 5,10;18%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 8,00;R$ 0,00;Não
+18/09/2018;Gasolina;3;R$ 6,06;R$ 4,73;R$ 18,18;R$ 14,19;R$ 3,99;22%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 3,00;R$ 15,00;Sim
+04/11/2025;Etanol;1;R$ 4,38;R$ 2,90;R$ 4,38;R$ 2,90;R$ 1,48;34%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 5,00;R$ 0,00;Não
+21/04/2017;Gasolina;4;R$ 5,57;R$ 4,63;R$ 22,28;R$ 18,52;R$ 3,76;17%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 7,00;R$ 0,00;Não
+15/07/2023;Diesel;3;R$ 5,44;R$ 4,82;R$ 16,32;R$ 14,46;R$ 1,86;11%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 0,00;Não
+20/09/2017;Diesel;5;R$ 5,16;R$ 4,22;R$ 25,80;R$ 21,10;R$ 4,70;18%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 15,00;R$ 0,00;Não
+06/06/2021;Diesel;2;R$ 5,95;R$ 4,07;R$ 11,90;R$ 8,14;R$ 3,76;32%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 7,00;R$ 0,00;Não
+20/09/2025;Gasolina;2;R$ 5,64;R$ 5,01;R$ 11,28;R$ 10,02;R$ 1,26;11%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;5;R$ 6,00;R$ 0,00;Não
+10/11/2024;Gasolina;1;R$ 6,24;R$ 5,13;R$ 6,24;R$ 5,13;R$ 1,11;18%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;4;R$ 8,00;R$ 0,00;Não
+16/04/2015;Diesel;5;R$ 5,28;R$ 5,00;R$ 26,40;R$ 25,00;R$ 1,40;5%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;1;R$ 4,00;R$ 4,00;Sim
+24/05/2023;Gasolina;2;R$ 6,21;R$ 4,93;R$ 12,42;R$ 9,86;R$ 2,56;21%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 3,00;R$ 0,00;Não
+05/09/2023;Gasolina;1;R$ 5,61;R$ 5,23;R$ 5,61;R$ 5,23;R$ 0,38;7%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 3,00;R$ 0,00;Não
+03/11/2017;Etanol;1;R$ 3,84;R$ 3,24;R$ 3,84;R$ 3,24;R$ 0,60;16%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 8,00;R$ 0,00;Não
+15/01/2020;Diesel;3;R$ 5,11;R$ 4,89;R$ 15,33;R$ 14,67;R$ 0,66;4%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 25,00;R$ 125,00;Sim
+15/12/2017;Gasolina;3;R$ 6,09;R$ 4,62;R$ 18,27;R$ 13,86;R$ 4,41;24%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 0,00;Não
+12/01/2019;Gasolina;1;R$ 5,86;R$ 4,69;R$ 5,86;R$ 4,69;R$ 1,17;20%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;1;R$ 10,00;R$ 10,00;Sim
+03/06/2020;Diesel;4;R$ 5,99;R$ 4,83;R$ 23,96;R$ 19,32;R$ 4,64;19%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;3;R$ 25,00;R$ 0,00;Não
+23/02/2023;Gasolina;2;R$ 5,61;R$ 4,64;R$ 11,22;R$ 9,28;R$ 1,94;17%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 5,00;R$ 0,00;Não
+10/10/2018;Diesel;4;R$ 5,32;R$ 4,09;R$ 21,28;R$ 16,36;R$ 4,92;23%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;2;R$ 7,00;R$ 0,00;Não
+07/10/2016;Etanol;1;R$ 4,47;R$ 2,67;R$ 4,47;R$ 2,67;R$ 1,80;40%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 4,00;R$ 12,00;Sim
+01/07/2025;Etanol;4;R$ 3,62;R$ 3,08;R$ 14,48;R$ 12,32;R$ 2,16;15%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 25,00;R$ 100,00;Sim
+20/10/2016;Etanol;3;R$ 4,29;R$ 3,25;R$ 12,87;R$ 9,75;R$ 3,12;24%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;1;R$ 30,00;R$ 0,00;Não
+27/12/2021;Gasolina;5;R$ 6,32;R$ 5,28;R$ 31,60;R$ 26,40;R$ 5,20;16%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;4;R$ 3,00;R$ 0,00;Não
+11/01/2017;Etanol;2;R$ 4,29;R$ 3,28;R$ 8,58;R$ 6,56;R$ 2,02;24%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 10,00;R$ 40,00;Sim
+28/07/2024;Diesel;3;R$ 5,52;R$ 4,47;R$ 16,56;R$ 13,41;R$ 3,15;19%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 8,00;R$ 0,00;Não
+27/04/2019;Gasolina;1;R$ 5,75;R$ 4,75;R$ 5,75;R$ 4,75;R$ 1,00;17%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;4;R$ 5,00;R$ 20,00;Sim
+03/08/2023;Etanol;4;R$ 4,34;R$ 3,30;R$ 17,36;R$ 13,20;R$ 4,16;24%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;1;R$ 5,00;R$ 0,00;Não
+07/11/2023;Gasolina;1;R$ 5,77;R$ 4,80;R$ 5,77;R$ 4,80;R$ 0,97;17%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 15,00;R$ 0,00;Não
+20/04/2025;Etanol;1;R$ 4,50;R$ 2,71;R$ 4,50;R$ 2,71;R$ 1,79;40%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 3,00;R$ 3,00;Sim
+21/04/2020;Gasolina;2;R$ 5,81;R$ 5,25;R$ 11,62;R$ 10,50;R$ 1,12;10%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;2;R$ 30,00;R$ 0,00;Não
+05/06/2015;Gasolina;5;R$ 5,86;R$ 4,60;R$ 29,30;R$ 23,00;R$ 6,30;22%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 3,00;R$ 0,00;Não
+04/08/2023;Gasolina;5;R$ 6,20;R$ 4,85;R$ 31,00;R$ 24,25;R$ 6,75;22%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;2;R$ 15,00;R$ 30,00;Sim
+07/01/2023;Diesel;4;R$ 5,72;R$ 4,96;R$ 22,88;R$ 19,84;R$ 3,04;13%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;3;R$ 6,00;R$ 0,00;Não
+24/05/2019;Etanol;1;R$ 3,85;R$ 3,14;R$ 3,85;R$ 3,14;R$ 0,71;18%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 10,00;R$ 0,00;Não
+01/09/2017;Diesel;4;R$ 5,82;R$ 4,47;R$ 23,28;R$ 17,88;R$ 5,40;23%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 8,00;R$ 0,00;Não
+26/04/2023;Diesel;2;R$ 5,47;R$ 4,53;R$ 10,94;R$ 9,06;R$ 1,88;17%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;2;R$ 6,00;R$ 0,00;Não
+22/01/2017;Diesel;1;R$ 5,17;R$ 4,72;R$ 5,17;R$ 4,72;R$ 0,45;9%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 284,00;Erro abastecimento;Com perda;Café;Bebidas;1;R$ 6,00;R$ 0,00;Não
+13/07/2025;Diesel;4;R$ 5,44;R$ 4,19;R$ 21,76;R$ 16,76;R$ 5,00;23%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 30,00;R$ 0,00;Não
+03/04/2020;Gasolina;1;R$ 6,40;R$ 4,53;R$ 6,40;R$ 4,53;R$ 1,87;29%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 14,00;Sim
+14/06/2024;Gasolina;5;R$ 5,64;R$ 5,49;R$ 28,20;R$ 27,45;R$ 0,75;3%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;3;R$ 8,00;R$ 24,00;Sim
+09/07/2022;Gasolina;3;R$ 5,60;R$ 5,27;R$ 16,80;R$ 15,81;R$ 0,99;6%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 4,00;R$ 16,00;Sim
+26/01/2017;Diesel;5;R$ 5,46;R$ 4,77;R$ 27,30;R$ 23,85;R$ 3,45;13%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 321,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;4;R$ 6,00;R$ 0,00;Não
+14/12/2022;Gasolina;3;R$ 5,91;R$ 4,59;R$ 17,73;R$ 13,77;R$ 3,96;22%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 102,00;Vazamento;Com perda;Refrigerante;Bebidas;4;R$ 3,00;R$ 0,00;Não
+09/02/2015;Etanol;3;R$ 4,44;R$ 2,79;R$ 13,32;R$ 8,37;R$ 4,95;37%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;1;R$ 10,00;R$ 0,00;Não
+02/05/2021;Diesel;3;R$ 5,10;R$ 4,04;R$ 15,30;R$ 12,12;R$ 3,18;21%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;4;R$ 15,00;R$ 0,00;Não
+19/06/2020;Gasolina;3;R$ 5,85;R$ 4,88;R$ 17,55;R$ 14,64;R$ 2,91;17%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;1;R$ 25,00;R$ 0,00;Não
+08/12/2025;Diesel;2;R$ 5,08;R$ 4,80;R$ 10,16;R$ 9,60;R$ 0,56;6%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 7,00;R$ 0,00;Não
+24/04/2019;Etanol;5;R$ 3,90;R$ 2,73;R$ 19,50;R$ 13,65;R$ 5,85;30%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;3;R$ 7,00;R$ 21,00;Sim
+14/05/2016;Diesel;2;R$ 5,14;R$ 4,73;R$ 10,28;R$ 9,46;R$ 0,82;8%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 15,00;R$ 0,00;Não
+23/07/2018;Diesel;5;R$ 5,62;R$ 4,13;R$ 28,10;R$ 20,65;R$ 7,45;27%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 7,00;R$ 0,00;Não
+17/10/2020;Diesel;2;R$ 5,49;R$ 4,78;R$ 10,98;R$ 9,56;R$ 1,42;13%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;5;R$ 15,00;R$ 0,00;Não
+15/12/2025;Gasolina;2;R$ 5,93;R$ 4,92;R$ 11,86;R$ 9,84;R$ 2,02;17%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;2;R$ 6,00;R$ 12,00;Sim
+19/11/2020;Gasolina;1;R$ 6,05;R$ 5,10;R$ 6,05;R$ 5,10;R$ 0,95;16%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 5,00;R$ 0,00;Não
+10/10/2021;Etanol;3;R$ 3,88;R$ 2,78;R$ 11,64;R$ 8,34;R$ 3,30;28%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 7,00;R$ 0,00;Não
+13/03/2018;Etanol;1;R$ 3,62;R$ 2,57;R$ 3,62;R$ 2,57;R$ 1,05;29%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;5;R$ 15,00;R$ 0,00;Não
+13/10/2023;Diesel;5;R$ 5,74;R$ 4,07;R$ 28,70;R$ 20,35;R$ 8,35;29%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 30,00;R$ 0,00;Não
+02/01/2019;Etanol;3;R$ 4,18;R$ 3,09;R$ 12,54;R$ 9,27;R$ 3,27;26%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;5;R$ 6,00;R$ 0,00;Não
+15/06/2023;Gasolina;3;R$ 5,78;R$ 5,07;R$ 17,34;R$ 15,21;R$ 2,13;12%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 8,00;R$ 0,00;Não
+20/03/2021;Gasolina;1;R$ 5,54;R$ 4,69;R$ 5,54;R$ 4,69;R$ 0,85;15%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 15,00;R$ 60,00;Sim
+07/11/2016;Etanol;3;R$ 4,04;R$ 3,21;R$ 12,12;R$ 9,63;R$ 2,49;21%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 7,00;R$ 0,00;Não
+20/07/2015;Gasolina;5;R$ 6,08;R$ 5,40;R$ 30,40;R$ 27,00;R$ 3,40;11%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 399,00;Falta de troco;Com perda;Salgadinho;Alimentos;3;R$ 10,00;R$ 0,00;Não
+28/08/2017;Diesel;1;R$ 5,48;R$ 4,64;R$ 5,48;R$ 4,64;R$ 0,84;15%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 10,00;R$ 0,00;Não
+26/11/2025;Diesel;2;R$ 5,44;R$ 4,91;R$ 10,88;R$ 9,82;R$ 1,06;10%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 6,00;R$ 0,00;Não
+27/06/2023;Etanol;2;R$ 4,38;R$ 3,28;R$ 8,76;R$ 6,56;R$ 2,20;25%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 25,00;R$ 0,00;Não
+22/02/2019;Etanol;1;R$ 3,55;R$ 3,04;R$ 3,55;R$ 3,04;R$ 0,51;14%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 7,00;R$ 0,00;Não
+11/12/2021;Etanol;2;R$ 4,23;R$ 2,74;R$ 8,46;R$ 5,48;R$ 2,98;35%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 3,00;R$ 0,00;Não
+25/04/2016;Gasolina;4;R$ 6,18;R$ 5,20;R$ 24,72;R$ 20,80;R$ 3,92;16%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;1;R$ 15,00;R$ 0,00;Não
+11/12/2015;Diesel;3;R$ 5,83;R$ 4,26;R$ 17,49;R$ 12,78;R$ 4,71;27%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 4,00;R$ 0,00;Não
+20/08/2019;Diesel;3;R$ 5,44;R$ 4,55;R$ 16,32;R$ 13,65;R$ 2,67;16%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 8,00;R$ 0,00;Não
+04/05/2025;Gasolina;3;R$ 6,40;R$ 4,70;R$ 19,20;R$ 14,10;R$ 5,10;27%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;1;R$ 6,00;R$ 6,00;Sim
+19/05/2021;Diesel;5;R$ 5,59;R$ 4,24;R$ 27,95;R$ 21,20;R$ 6,75;24%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;1;R$ 4,00;R$ 4,00;Sim
+19/04/2019;Etanol;1;R$ 3,58;R$ 3,16;R$ 3,58;R$ 3,16;R$ 0,42;12%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 10,00;R$ 0,00;Não
+26/06/2019;Etanol;2;R$ 4,01;R$ 2,83;R$ 8,02;R$ 5,66;R$ 2,36;29%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 8,00;R$ 32,00;Sim
+11/11/2025;Diesel;3;R$ 5,76;R$ 4,10;R$ 17,28;R$ 12,30;R$ 4,98;29%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 4,00;R$ 0,00;Não
+28/08/2021;Etanol;5;R$ 3,55;R$ 2,65;R$ 17,75;R$ 13,25;R$ 4,50;25%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 7,00;R$ 21,00;Sim
+20/10/2022;Etanol;1;R$ 4,07;R$ 3,41;R$ 4,07;R$ 3,41;R$ 0,66;16%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;3;R$ 6,00;R$ 18,00;Sim
+05/06/2016;Diesel;4;R$ 5,62;R$ 4,96;R$ 22,48;R$ 19,84;R$ 2,64;12%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 24,00;Sim
+02/10/2020;Etanol;4;R$ 4,46;R$ 3,10;R$ 17,84;R$ 12,40;R$ 5,44;30%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;4;R$ 30,00;R$ 120,00;Sim
+04/08/2017;Diesel;5;R$ 5,27;R$ 4,04;R$ 26,35;R$ 20,20;R$ 6,15;23%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;5;R$ 10,00;R$ 0,00;Não
+02/05/2024;Diesel;1;R$ 5,01;R$ 4,81;R$ 5,01;R$ 4,81;R$ 0,20;4%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 25,00;R$ 50,00;Sim
+09/01/2016;Gasolina;1;R$ 6,20;R$ 5,03;R$ 6,20;R$ 5,03;R$ 1,17;19%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 5,00;R$ 0,00;Não
+16/04/2016;Etanol;1;R$ 4,45;R$ 3,06;R$ 4,45;R$ 3,06;R$ 1,39;31%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;1;R$ 25,00;R$ 0,00;Não
+20/10/2018;Diesel;3;R$ 5,79;R$ 4,86;R$ 17,37;R$ 14,58;R$ 2,79;16%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;2;R$ 10,00;R$ 0,00;Não
+06/05/2025;Etanol;4;R$ 3,99;R$ 3,34;R$ 15,96;R$ 13,36;R$ 2,60;16%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;2;R$ 4,00;R$ 0,00;Não
+08/03/2019;Diesel;2;R$ 5,38;R$ 4,13;R$ 10,76;R$ 8,26;R$ 2,50;23%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+03/11/2021;Etanol;1;R$ 4,25;R$ 2,88;R$ 4,25;R$ 2,88;R$ 1,37;32%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 0,00;Não
+04/09/2020;Etanol;2;R$ 3,80;R$ 3,46;R$ 7,60;R$ 6,92;R$ 0,68;9%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;2;R$ 30,00;R$ 60,00;Sim
+08/03/2024;Gasolina;2;R$ 5,54;R$ 4,91;R$ 11,08;R$ 9,82;R$ 1,26;11%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;1;R$ 3,00;R$ 3,00;Sim
+20/07/2019;Gasolina;2;R$ 6,42;R$ 4,79;R$ 12,84;R$ 9,58;R$ 3,26;25%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 7,00;R$ 0,00;Não
+03/08/2025;Gasolina;5;R$ 6,06;R$ 4,91;R$ 30,30;R$ 24,55;R$ 5,75;19%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;1;R$ 5,00;R$ 0,00;Não
+18/06/2024;Gasolina;2;R$ 5,97;R$ 5,14;R$ 11,94;R$ 10,28;R$ 1,66;14%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 15,00;R$ 0,00;Não
+10/04/2016;Diesel;4;R$ 5,81;R$ 4,76;R$ 23,24;R$ 19,04;R$ 4,20;18%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 10,00;R$ 50,00;Sim
+24/12/2021;Etanol;4;R$ 3,89;R$ 2,64;R$ 15,56;R$ 10,56;R$ 5,00;32%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 8,00;R$ 0,00;Não
+04/03/2017;Etanol;2;R$ 4,22;R$ 2,60;R$ 8,44;R$ 5,20;R$ 3,24;38%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 30,00;R$ 0,00;Não
+23/10/2023;Diesel;4;R$ 5,14;R$ 4,46;R$ 20,56;R$ 17,84;R$ 2,72;13%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;2;R$ 6,00;R$ 0,00;Não
+20/05/2018;Etanol;4;R$ 3,96;R$ 2,50;R$ 15,84;R$ 10,00;R$ 5,84;37%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;5;R$ 30,00;R$ 0,00;Não
+24/02/2025;Gasolina;4;R$ 5,66;R$ 4,69;R$ 22,64;R$ 18,76;R$ 3,88;17%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 10,00;R$ 0,00;Não
+03/10/2017;Etanol;1;R$ 4,42;R$ 2,54;R$ 4,42;R$ 2,54;R$ 1,88;43%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 6,00;R$ 0,00;Não
+18/05/2021;Diesel;4;R$ 5,85;R$ 4,44;R$ 23,40;R$ 17,76;R$ 5,64;24%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;2;R$ 3,00;R$ 6,00;Sim
+10/11/2025;Gasolina;4;R$ 5,83;R$ 5,28;R$ 23,32;R$ 21,12;R$ 2,20;9%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;3;R$ 6,00;R$ 18,00;Sim
+06/08/2024;Gasolina;1;R$ 6,33;R$ 5,06;R$ 6,33;R$ 5,06;R$ 1,27;20%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 8,00;R$ 0,00;Não
+19/11/2024;Etanol;1;R$ 3,88;R$ 3,37;R$ 3,88;R$ 3,37;R$ 0,51;13%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 7,00;R$ 28,00;Sim
+03/11/2018;Gasolina;3;R$ 6,33;R$ 5,04;R$ 18,99;R$ 15,12;R$ 3,87;20%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;4;R$ 10,00;R$ 0,00;Não
+26/10/2023;Etanol;5;R$ 4,22;R$ 2,64;R$ 21,10;R$ 13,20;R$ 7,90;37%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 30,00;R$ 0,00;Não
+26/08/2021;Etanol;2;R$ 3,96;R$ 3,37;R$ 7,92;R$ 6,74;R$ 1,18;15%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;5;R$ 8,00;R$ 40,00;Sim
+18/12/2020;Etanol;4;R$ 4,17;R$ 3,30;R$ 16,68;R$ 13,20;R$ 3,48;21%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;2;R$ 4,00;R$ 0,00;Não
+19/07/2021;Diesel;3;R$ 5,74;R$ 4,54;R$ 17,22;R$ 13,62;R$ 3,60;21%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Sim;R$ 218,00;Falta de troco;Com perda;Café;Bebidas;4;R$ 30,00;R$ 0,00;Não
+28/06/2025;Etanol;2;R$ 4,35;R$ 3,06;R$ 8,70;R$ 6,12;R$ 2,58;30%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 294,00;Falta de troco;Com perda;Chocolate;Alimentos;4;R$ 3,00;R$ 0,00;Não
+25/10/2022;Etanol;2;R$ 3,77;R$ 2,85;R$ 7,54;R$ 5,70;R$ 1,84;24%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 30,00;R$ 0,00;Não
+27/01/2018;Etanol;2;R$ 3,63;R$ 2,76;R$ 7,26;R$ 5,52;R$ 1,74;24%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 15,00;R$ 0,00;Não
+13/09/2017;Etanol;3;R$ 4,41;R$ 2,87;R$ 13,23;R$ 8,61;R$ 4,62;35%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 30,00;R$ 0,00;Não
+26/03/2024;Diesel;2;R$ 5,37;R$ 4,73;R$ 10,74;R$ 9,46;R$ 1,28;12%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 3,00;R$ 9,00;Sim
+10/12/2015;Gasolina;4;R$ 5,93;R$ 5,17;R$ 23,72;R$ 20,68;R$ 3,04;13%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 10,00;R$ 40,00;Sim
+06/01/2016;Etanol;3;R$ 3,61;R$ 3,09;R$ 10,83;R$ 9,27;R$ 1,56;14%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 15,00;R$ 0,00;Não
+02/08/2019;Gasolina;3;R$ 5,65;R$ 4,87;R$ 16,95;R$ 14,61;R$ 2,34;14%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;3;R$ 10,00;R$ 30,00;Sim
+13/05/2023;Gasolina;2;R$ 5,61;R$ 5,20;R$ 11,22;R$ 10,40;R$ 0,82;7%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 5,00;R$ 10,00;Sim
+01/06/2022;Etanol;4;R$ 4,39;R$ 2,90;R$ 17,56;R$ 11,60;R$ 5,96;34%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 7,00;R$ 28,00;Sim
+22/05/2020;Etanol;3;R$ 4,39;R$ 2,81;R$ 13,17;R$ 8,43;R$ 4,74;36%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Sim;R$ 279,00;Desconto;Com perda;Café;Bebidas;1;R$ 7,00;R$ 7,00;Sim
+27/05/2016;Etanol;1;R$ 4,11;R$ 2,71;R$ 4,11;R$ 2,71;R$ 1,40;34%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 147,00;Erro abastecimento;Com perda;Aditivo;Automotivo;3;R$ 10,00;R$ 30,00;Sim
+27/09/2017;Gasolina;1;R$ 6,26;R$ 5,05;R$ 6,26;R$ 5,05;R$ 1,21;19%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 15,00;R$ 60,00;Sim
+13/07/2018;Diesel;4;R$ 5,07;R$ 4,25;R$ 20,28;R$ 17,00;R$ 3,28;16%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;1;R$ 7,00;R$ 0,00;Não
+22/11/2021;Diesel;1;R$ 5,21;R$ 4,57;R$ 5,21;R$ 4,57;R$ 0,64;12%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 15,00;R$ 0,00;Não
+11/09/2019;Diesel;2;R$ 5,79;R$ 4,78;R$ 11,58;R$ 9,56;R$ 2,02;17%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Sim;R$ 365,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;2;R$ 10,00;R$ 0,00;Não
+01/03/2022;Etanol;3;R$ 3,92;R$ 2,61;R$ 11,76;R$ 7,83;R$ 3,93;33%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Sim;R$ 415,00;Falta de troco;Com perda;Cigarro;Conveniência;5;R$ 5,00;R$ 25,00;Sim
+28/04/2016;Diesel;1;R$ 5,98;R$ 4,24;R$ 5,98;R$ 4,24;R$ 1,74;29%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 8,00;R$ 0,00;Não
+20/02/2025;Diesel;3;R$ 5,75;R$ 4,13;R$ 17,25;R$ 12,39;R$ 4,86;28%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 3,00;R$ 9,00;Sim
+12/12/2024;Etanol;5;R$ 4,18;R$ 2,86;R$ 20,90;R$ 14,30;R$ 6,60;32%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 10,00;R$ 20,00;Sim
+01/11/2019;Gasolina;2;R$ 5,65;R$ 5,35;R$ 11,30;R$ 10,70;R$ 0,60;5%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 15,00;R$ 0,00;Não
+03/08/2022;Diesel;3;R$ 5,43;R$ 4,54;R$ 16,29;R$ 13,62;R$ 2,67;16%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;2;R$ 5,00;R$ 0,00;Não
+27/09/2018;Diesel;4;R$ 5,40;R$ 4,52;R$ 21,60;R$ 18,08;R$ 3,52;16%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;4;R$ 10,00;R$ 0,00;Não
+20/09/2020;Gasolina;1;R$ 5,74;R$ 5,28;R$ 5,74;R$ 5,28;R$ 0,46;8%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;4;R$ 4,00;R$ 16,00;Sim
+28/08/2017;Etanol;2;R$ 4,29;R$ 2,83;R$ 8,58;R$ 5,66;R$ 2,92;34%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;2;R$ 6,00;R$ 12,00;Sim
+23/12/2022;Etanol;3;R$ 4,16;R$ 2,64;R$ 12,48;R$ 7,92;R$ 4,56;37%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Sim;R$ 461,00;Vazamento;Com perda;Energético;Bebidas;2;R$ 6,00;R$ 0,00;Não
+17/01/2025;Etanol;2;R$ 4,25;R$ 3,05;R$ 8,50;R$ 6,10;R$ 2,40;28%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 180,00;Vazamento;Com perda;Café;Bebidas;2;R$ 25,00;R$ 0,00;Não
+10/12/2018;Etanol;1;R$ 4,29;R$ 3,14;R$ 4,29;R$ 3,14;R$ 1,15;27%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 15,00;R$ 60,00;Sim
+27/12/2024;Etanol;4;R$ 4,36;R$ 2,75;R$ 17,44;R$ 11,00;R$ 6,44;37%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 5,00;R$ 0,00;Não
+25/01/2025;Diesel;5;R$ 5,97;R$ 4,51;R$ 29,85;R$ 22,55;R$ 7,30;24%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;1;R$ 4,00;R$ 0,00;Não
+23/02/2022;Diesel;1;R$ 5,99;R$ 4,53;R$ 5,99;R$ 4,53;R$ 1,46;24%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 30,00;R$ 0,00;Não
+18/10/2017;Etanol;4;R$ 3,81;R$ 3,48;R$ 15,24;R$ 13,92;R$ 1,32;9%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;2;R$ 30,00;R$ 0,00;Não
+04/03/2024;Gasolina;4;R$ 6,03;R$ 4,91;R$ 24,12;R$ 19,64;R$ 4,48;19%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 6,00;R$ 0,00;Não
+12/09/2024;Etanol;4;R$ 3,94;R$ 3,29;R$ 15,76;R$ 13,16;R$ 2,60;16%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;5;R$ 10,00;R$ 0,00;Não
+13/10/2021;Gasolina;3;R$ 6,43;R$ 5,03;R$ 19,29;R$ 15,09;R$ 4,20;22%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 7,00;R$ 0,00;Não
+28/09/2016;Gasolina;2;R$ 5,69;R$ 4,81;R$ 11,38;R$ 9,62;R$ 1,76;15%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;4;R$ 7,00;R$ 0,00;Não
+02/07/2025;Diesel;5;R$ 5,05;R$ 4,79;R$ 25,25;R$ 23,95;R$ 1,30;5%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;4;R$ 10,00;R$ 40,00;Sim
+23/06/2016;Etanol;4;R$ 3,70;R$ 2,97;R$ 14,80;R$ 11,88;R$ 2,92;20%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;3;R$ 25,00;R$ 0,00;Não
+10/03/2024;Gasolina;1;R$ 5,93;R$ 4,93;R$ 5,93;R$ 4,93;R$ 1,00;17%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 10,00;R$ 10,00;Sim
+07/03/2019;Diesel;5;R$ 5,41;R$ 4,51;R$ 27,05;R$ 22,55;R$ 4,50;17%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;1;R$ 30,00;R$ 0,00;Não
+27/10/2019;Etanol;1;R$ 3,76;R$ 2,85;R$ 3,76;R$ 2,85;R$ 0,91;24%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;1;R$ 25,00;R$ 25,00;Sim
+08/05/2015;Diesel;3;R$ 5,60;R$ 4,57;R$ 16,80;R$ 13,71;R$ 3,09;18%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;3;R$ 30,00;R$ 0,00;Não
+18/02/2020;Etanol;2;R$ 3,96;R$ 3,49;R$ 7,92;R$ 6,98;R$ 0,94;12%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Sim;R$ 422,00;Erro abastecimento;Com perda;Cigarro;Conveniência;3;R$ 25,00;R$ 0,00;Não
+23/03/2022;Diesel;5;R$ 5,15;R$ 4,72;R$ 25,75;R$ 23,60;R$ 2,15;8%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;1;R$ 15,00;R$ 0,00;Não
+08/02/2018;Gasolina;1;R$ 6,31;R$ 5,16;R$ 6,31;R$ 5,16;R$ 1,15;18%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 5,00;R$ 0,00;Não
+03/10/2016;Diesel;5;R$ 5,70;R$ 4,03;R$ 28,50;R$ 20,15;R$ 8,35;29%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;4;R$ 3,00;R$ 0,00;Não
+19/03/2020;Etanol;4;R$ 4,03;R$ 3,16;R$ 16,12;R$ 12,64;R$ 3,48;22%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 10,00;R$ 0,00;Não
+12/02/2015;Gasolina;2;R$ 5,77;R$ 4,70;R$ 11,54;R$ 9,40;R$ 2,14;19%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;2;R$ 30,00;R$ 0,00;Não
+06/03/2023;Etanol;3;R$ 3,80;R$ 2,97;R$ 11,40;R$ 8,91;R$ 2,49;22%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;4;R$ 3,00;R$ 0,00;Não
+25/10/2021;Gasolina;1;R$ 5,94;R$ 4,95;R$ 5,94;R$ 4,95;R$ 0,99;17%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 15,00;R$ 0,00;Não
+02/04/2022;Diesel;4;R$ 5,28;R$ 4,52;R$ 21,12;R$ 18,08;R$ 3,04;14%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 497,00;Desconto;Com perda;Limpador Parabrisa;Automotivo;2;R$ 15,00;R$ 0,00;Não
+11/10/2017;Diesel;3;R$ 5,21;R$ 4,59;R$ 15,63;R$ 13,77;R$ 1,86;12%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;1;R$ 4,00;R$ 0,00;Não
+26/04/2023;Etanol;5;R$ 3,57;R$ 2,58;R$ 17,85;R$ 12,90;R$ 4,95;28%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 8,00;R$ 0,00;Não
+11/07/2019;Gasolina;3;R$ 6,33;R$ 4,69;R$ 18,99;R$ 14,07;R$ 4,92;26%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;5;R$ 30,00;R$ 0,00;Não
+07/09/2015;Etanol;2;R$ 3,76;R$ 3,02;R$ 7,52;R$ 6,04;R$ 1,48;20%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 15,00;R$ 75,00;Sim
+06/08/2021;Etanol;2;R$ 4,03;R$ 2,87;R$ 8,06;R$ 5,74;R$ 2,32;29%;João;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 371,00;Falta de troco;Com perda;Água;Bebidas;1;R$ 7,00;R$ 0,00;Não
+17/02/2025;Etanol;5;R$ 3,78;R$ 2,95;R$ 18,90;R$ 14,75;R$ 4,15;22%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;2;R$ 7,00;R$ 0,00;Não
+04/04/2019;Etanol;3;R$ 4,39;R$ 3,11;R$ 13,17;R$ 9,33;R$ 3,84;29%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;5;R$ 4,00;R$ 0,00;Não
+12/04/2024;Diesel;3;R$ 5,61;R$ 4,67;R$ 16,83;R$ 14,01;R$ 2,82;17%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;5;R$ 3,00;R$ 0,00;Não
+26/03/2023;Diesel;5;R$ 5,11;R$ 4,97;R$ 25,55;R$ 24,85;R$ 0,70;3%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;4;R$ 15,00;R$ 0,00;Não
+26/10/2023;Diesel;3;R$ 5,39;R$ 4,06;R$ 16,17;R$ 12,18;R$ 3,99;25%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 5,00;R$ 0,00;Não
+09/06/2015;Gasolina;5;R$ 5,67;R$ 4,91;R$ 28,35;R$ 24,55;R$ 3,80;13%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Sim;R$ 321,00;Desconto;Com perda;Óleo Motor;Automotivo;5;R$ 30,00;R$ 0,00;Não
+26/12/2022;Etanol;2;R$ 3,75;R$ 2,97;R$ 7,50;R$ 5,94;R$ 1,56;21%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 25,00;R$ 75,00;Sim
+10/09/2017;Etanol;3;R$ 4,50;R$ 2,64;R$ 13,50;R$ 7,92;R$ 5,58;41%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;4;R$ 5,00;R$ 0,00;Não
+21/02/2018;Diesel;1;R$ 5,34;R$ 4,92;R$ 5,34;R$ 4,92;R$ 0,42;8%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 7,00;R$ 7,00;Sim
+16/06/2018;Gasolina;4;R$ 5,80;R$ 5,29;R$ 23,20;R$ 21,16;R$ 2,04;9%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;3;R$ 3,00;R$ 0,00;Não
+11/09/2016;Etanol;4;R$ 3,93;R$ 2,71;R$ 15,72;R$ 10,84;R$ 4,88;31%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;4;R$ 30,00;R$ 120,00;Sim
+19/10/2015;Diesel;5;R$ 5,45;R$ 4,19;R$ 27,25;R$ 20,95;R$ 6,30;23%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 334,00;Desconto;Com perda;Aditivo;Automotivo;5;R$ 30,00;R$ 0,00;Não
+13/02/2022;Gasolina;5;R$ 6,35;R$ 4,79;R$ 31,75;R$ 23,95;R$ 7,80;25%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;3;R$ 30,00;R$ 90,00;Sim
+14/02/2016;Diesel;4;R$ 5,87;R$ 4,29;R$ 23,48;R$ 17,16;R$ 6,32;27%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 25,00;R$ 50,00;Sim
+04/12/2016;Diesel;5;R$ 5,70;R$ 4,85;R$ 28,50;R$ 24,25;R$ 4,25;15%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 5,00;R$ 0,00;Não
+09/12/2017;Gasolina;2;R$ 6,28;R$ 4,79;R$ 12,56;R$ 9,58;R$ 2,98;24%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;2;R$ 4,00;R$ 8,00;Sim
+28/05/2023;Etanol;5;R$ 4,03;R$ 3,20;R$ 20,15;R$ 16,00;R$ 4,15;21%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 15,00;R$ 30,00;Sim
+01/07/2015;Etanol;5;R$ 3,99;R$ 2,97;R$ 19,95;R$ 14,85;R$ 5,10;26%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;1;R$ 30,00;R$ 30,00;Sim
+01/06/2019;Gasolina;3;R$ 6,02;R$ 4,78;R$ 18,06;R$ 14,34;R$ 3,72;21%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;5;R$ 6,00;R$ 0,00;Não
+15/02/2025;Etanol;2;R$ 4,11;R$ 3,14;R$ 8,22;R$ 6,28;R$ 1,94;24%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;4;R$ 30,00;R$ 0,00;Não
+03/04/2025;Gasolina;1;R$ 5,68;R$ 4,74;R$ 5,68;R$ 4,74;R$ 0,94;17%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 4,00;R$ 0,00;Não
+15/05/2016;Diesel;1;R$ 5,77;R$ 4,95;R$ 5,77;R$ 4,95;R$ 0,82;14%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;2;R$ 7,00;R$ 14,00;Sim
+03/12/2023;Gasolina;2;R$ 5,99;R$ 5,35;R$ 11,98;R$ 10,70;R$ 1,28;11%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 30,00;R$ 0,00;Não
+15/09/2016;Gasolina;2;R$ 5,79;R$ 4,95;R$ 11,58;R$ 9,90;R$ 1,68;15%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 10,00;R$ 0,00;Não
+27/10/2020;Diesel;4;R$ 5,33;R$ 4,11;R$ 21,32;R$ 16,44;R$ 4,88;23%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 15,00;R$ 15,00;Sim
+01/10/2015;Diesel;2;R$ 5,97;R$ 4,36;R$ 11,94;R$ 8,72;R$ 3,22;27%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 25,00;R$ 0,00;Não
+03/11/2015;Etanol;4;R$ 4,28;R$ 3,10;R$ 17,12;R$ 12,40;R$ 4,72;28%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Sim;R$ 295,00;Vazamento;Com perda;Água;Bebidas;2;R$ 6,00;R$ 0,00;Não
+07/07/2019;Gasolina;4;R$ 5,71;R$ 4,79;R$ 22,84;R$ 19,16;R$ 3,68;16%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 15,00;R$ 75,00;Sim
+28/10/2024;Diesel;2;R$ 5,05;R$ 4,55;R$ 10,10;R$ 9,10;R$ 1,00;10%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;3;R$ 5,00;R$ 15,00;Sim
+13/04/2024;Etanol;1;R$ 3,94;R$ 3,34;R$ 3,94;R$ 3,34;R$ 0,60;15%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 4,00;R$ 8,00;Sim
+19/03/2016;Etanol;1;R$ 4,19;R$ 2,94;R$ 4,19;R$ 2,94;R$ 1,25;30%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 0,00;Não
+16/12/2021;Diesel;1;R$ 5,24;R$ 4,74;R$ 5,24;R$ 4,74;R$ 0,50;10%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 30,00;R$ 60,00;Sim
+20/02/2018;Gasolina;2;R$ 6,15;R$ 4,90;R$ 12,30;R$ 9,80;R$ 2,50;20%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;1;R$ 30,00;R$ 30,00;Sim
+09/06/2022;Etanol;5;R$ 3,60;R$ 2,72;R$ 18,00;R$ 13,60;R$ 4,40;24%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 262,00;Vazamento;Com perda;Cigarro;Conveniência;1;R$ 8,00;R$ 0,00;Não
+20/11/2022;Gasolina;3;R$ 5,84;R$ 5,44;R$ 17,52;R$ 16,32;R$ 1,20;7%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 5,00;R$ 0,00;Não
+11/05/2024;Etanol;3;R$ 4,27;R$ 2,79;R$ 12,81;R$ 8,37;R$ 4,44;35%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;1;R$ 15,00;R$ 0,00;Não
+27/12/2022;Etanol;2;R$ 4,13;R$ 3,45;R$ 8,26;R$ 6,90;R$ 1,36;16%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 25,00;R$ 50,00;Sim
+24/06/2021;Gasolina;1;R$ 6,44;R$ 5,00;R$ 6,44;R$ 5,00;R$ 1,44;22%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;2;R$ 3,00;R$ 0,00;Não
+12/12/2025;Gasolina;1;R$ 6,12;R$ 4,88;R$ 6,12;R$ 4,88;R$ 1,24;20%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 6,00;R$ 6,00;Sim
+10/09/2019;Etanol;1;R$ 4,27;R$ 3,35;R$ 4,27;R$ 3,35;R$ 0,92;22%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 30,00;R$ 0,00;Não
+05/02/2020;Etanol;1;R$ 4,42;R$ 3,32;R$ 4,42;R$ 3,32;R$ 1,10;25%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;1;R$ 8,00;R$ 8,00;Sim
+10/04/2020;Etanol;3;R$ 3,67;R$ 3,45;R$ 11,01;R$ 10,35;R$ 0,66;6%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 8,00;R$ 16,00;Sim
+12/06/2024;Gasolina;3;R$ 5,76;R$ 4,67;R$ 17,28;R$ 14,01;R$ 3,27;19%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 444,00;Vazamento;Com perda;Café;Bebidas;3;R$ 30,00;R$ 90,00;Sim
+28/03/2022;Etanol;1;R$ 4,43;R$ 2,78;R$ 4,43;R$ 2,78;R$ 1,65;37%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;4;R$ 25,00;R$ 0,00;Não
+14/01/2017;Gasolina;1;R$ 5,74;R$ 5,43;R$ 5,74;R$ 5,43;R$ 0,31;5%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 10,00;R$ 0,00;Não
+13/09/2024;Gasolina;2;R$ 5,81;R$ 4,96;R$ 11,62;R$ 9,92;R$ 1,70;15%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;4;R$ 30,00;R$ 0,00;Não
+28/09/2019;Etanol;1;R$ 3,69;R$ 3,43;R$ 3,69;R$ 3,43;R$ 0,26;7%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;4;R$ 5,00;R$ 20,00;Sim
+24/07/2018;Etanol;5;R$ 4,28;R$ 2,86;R$ 21,40;R$ 14,30;R$ 7,10;33%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;4;R$ 8,00;R$ 0,00;Não
+02/06/2021;Gasolina;5;R$ 5,82;R$ 5,30;R$ 29,10;R$ 26,50;R$ 2,60;9%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 15,00;R$ 0,00;Não
+20/11/2019;Etanol;3;R$ 4,30;R$ 3,28;R$ 12,90;R$ 9,84;R$ 3,06;24%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;4;R$ 8,00;R$ 32,00;Sim
+22/03/2025;Gasolina;1;R$ 6,38;R$ 5,49;R$ 6,38;R$ 5,49;R$ 0,89;14%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 3,00;R$ 6,00;Sim
+07/05/2021;Gasolina;1;R$ 6,34;R$ 4,87;R$ 6,34;R$ 4,87;R$ 1,47;23%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 25,00;R$ 0,00;Não
+23/12/2017;Gasolina;5;R$ 5,86;R$ 4,67;R$ 29,30;R$ 23,35;R$ 5,95;20%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;5;R$ 6,00;R$ 0,00;Não
+12/01/2025;Diesel;3;R$ 5,48;R$ 4,14;R$ 16,44;R$ 12,42;R$ 4,02;24%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;3;R$ 8,00;R$ 0,00;Não
+15/02/2021;Diesel;4;R$ 5,04;R$ 4,22;R$ 20,16;R$ 16,88;R$ 3,28;16%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;1;R$ 6,00;R$ 6,00;Sim
+24/11/2021;Gasolina;5;R$ 5,57;R$ 4,82;R$ 27,85;R$ 24,10;R$ 3,75;13%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;5;R$ 15,00;R$ 75,00;Sim
+28/09/2020;Etanol;2;R$ 4,31;R$ 3,28;R$ 8,62;R$ 6,56;R$ 2,06;24%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 284,00;Vazamento;Com perda;Aditivo;Automotivo;2;R$ 8,00;R$ 0,00;Não
+26/02/2015;Etanol;4;R$ 3,54;R$ 2,60;R$ 14,16;R$ 10,40;R$ 3,76;27%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 15,00;R$ 75,00;Sim
+05/01/2025;Diesel;5;R$ 5,52;R$ 4,94;R$ 27,60;R$ 24,70;R$ 2,90;11%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 7,00;R$ 0,00;Não
+18/12/2025;Gasolina;1;R$ 6,25;R$ 4,59;R$ 6,25;R$ 4,59;R$ 1,66;27%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 3,00;R$ 0,00;Não
+09/05/2015;Etanol;5;R$ 3,53;R$ 2,91;R$ 17,65;R$ 14,55;R$ 3,10;18%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;3;R$ 10,00;R$ 30,00;Sim
+03/11/2021;Etanol;1;R$ 4,40;R$ 2,50;R$ 4,40;R$ 2,50;R$ 1,90;43%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;4;R$ 7,00;R$ 0,00;Não
+18/01/2017;Etanol;5;R$ 3,83;R$ 2,87;R$ 19,15;R$ 14,35;R$ 4,80;25%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 4,00;R$ 4,00;Sim
+20/06/2021;Etanol;1;R$ 3,59;R$ 3,23;R$ 3,59;R$ 3,23;R$ 0,36;10%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 25,00;R$ 100,00;Sim
+02/05/2020;Gasolina;4;R$ 6,44;R$ 4,68;R$ 25,76;R$ 18,72;R$ 7,04;27%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;4;R$ 30,00;R$ 120,00;Sim
+05/11/2020;Etanol;3;R$ 4,31;R$ 3,21;R$ 12,93;R$ 9,63;R$ 3,30;26%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 10,00;R$ 20,00;Sim
+08/02/2018;Etanol;5;R$ 4,42;R$ 2,63;R$ 22,10;R$ 13,15;R$ 8,95;40%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 5,00;R$ 0,00;Não
+08/02/2023;Diesel;5;R$ 5,64;R$ 4,38;R$ 28,20;R$ 21,90;R$ 6,30;22%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 10,00;R$ 0,00;Não
+09/05/2015;Diesel;4;R$ 5,62;R$ 4,93;R$ 22,48;R$ 19,72;R$ 2,76;12%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 15,00;Sim
+06/01/2025;Diesel;5;R$ 5,96;R$ 4,59;R$ 29,80;R$ 22,95;R$ 6,85;23%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;5;R$ 10,00;R$ 0,00;Não
+24/02/2019;Diesel;1;R$ 5,12;R$ 4,96;R$ 5,12;R$ 4,96;R$ 0,16;3%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;1;R$ 10,00;R$ 0,00;Não
+17/07/2020;Gasolina;5;R$ 5,78;R$ 5,15;R$ 28,90;R$ 25,75;R$ 3,15;11%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 3,00;R$ 3,00;Sim
+12/10/2016;Gasolina;2;R$ 5,88;R$ 4,54;R$ 11,76;R$ 9,08;R$ 2,68;23%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 25,00;R$ 0,00;Não
+06/03/2020;Gasolina;4;R$ 6,18;R$ 4,68;R$ 24,72;R$ 18,72;R$ 6,00;24%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;3;R$ 25,00;R$ 75,00;Sim
+02/05/2023;Diesel;3;R$ 5,31;R$ 4,45;R$ 15,93;R$ 13,35;R$ 2,58;16%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 0,00;Não
+17/01/2015;Diesel;4;R$ 5,43;R$ 4,00;R$ 21,72;R$ 16,00;R$ 5,72;26%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 30,00;R$ 60,00;Sim
+20/03/2020;Etanol;1;R$ 3,74;R$ 3,03;R$ 3,74;R$ 3,03;R$ 0,71;19%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 30,00;R$ 30,00;Sim
+28/04/2023;Gasolina;5;R$ 6,20;R$ 4,92;R$ 31,00;R$ 24,60;R$ 6,40;21%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 28,00;Sim
+22/05/2022;Diesel;1;R$ 5,95;R$ 4,88;R$ 5,95;R$ 4,88;R$ 1,07;18%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;2;R$ 3,00;R$ 0,00;Não
+01/02/2020;Etanol;4;R$ 3,68;R$ 2,58;R$ 14,72;R$ 10,32;R$ 4,40;30%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;1;R$ 30,00;R$ 30,00;Sim
+12/03/2022;Diesel;1;R$ 5,79;R$ 4,65;R$ 5,79;R$ 4,65;R$ 1,14;20%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;2;R$ 5,00;R$ 10,00;Sim
+13/01/2023;Etanol;5;R$ 3,75;R$ 2,94;R$ 18,75;R$ 14,70;R$ 4,05;22%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 7,00;R$ 0,00;Não
+27/01/2015;Diesel;2;R$ 5,99;R$ 4,76;R$ 11,98;R$ 9,52;R$ 2,46;21%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 7,00;R$ 21,00;Sim
+19/04/2024;Etanol;2;R$ 4,01;R$ 2,79;R$ 8,02;R$ 5,58;R$ 2,44;30%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 3,00;R$ 3,00;Sim
+23/12/2015;Diesel;5;R$ 5,72;R$ 4,59;R$ 28,60;R$ 22,95;R$ 5,65;20%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;5;R$ 3,00;R$ 0,00;Não
+05/12/2015;Diesel;3;R$ 5,62;R$ 4,46;R$ 16,86;R$ 13,38;R$ 3,48;21%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 4,00;R$ 0,00;Não
+26/08/2022;Diesel;4;R$ 5,59;R$ 4,14;R$ 22,36;R$ 16,56;R$ 5,80;26%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;3;R$ 4,00;R$ 0,00;Não
+24/12/2018;Gasolina;2;R$ 6,31;R$ 4,86;R$ 12,62;R$ 9,72;R$ 2,90;23%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;3;R$ 5,00;R$ 15,00;Sim
+02/09/2022;Etanol;4;R$ 3,94;R$ 2,83;R$ 15,76;R$ 11,32;R$ 4,44;28%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 5,00;R$ 0,00;Não
+17/08/2018;Diesel;5;R$ 5,29;R$ 4,38;R$ 26,45;R$ 21,90;R$ 4,55;17%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 7,00;R$ 0,00;Não
+07/01/2016;Etanol;2;R$ 3,50;R$ 2,97;R$ 7,00;R$ 5,94;R$ 1,06;15%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;4;R$ 5,00;R$ 20,00;Sim
+09/04/2017;Etanol;2;R$ 3,80;R$ 3,12;R$ 7,60;R$ 6,24;R$ 1,36;18%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 7,00;R$ 14,00;Sim
+11/06/2016;Diesel;3;R$ 5,43;R$ 4,49;R$ 16,29;R$ 13,47;R$ 2,82;17%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;3;R$ 15,00;R$ 45,00;Sim
+21/04/2025;Gasolina;2;R$ 5,61;R$ 5,26;R$ 11,22;R$ 10,52;R$ 0,70;6%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;1;R$ 25,00;R$ 0,00;Não
+16/08/2025;Gasolina;3;R$ 5,96;R$ 5,12;R$ 17,88;R$ 15,36;R$ 2,52;14%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 15,00;R$ 45,00;Sim
+21/07/2016;Diesel;1;R$ 5,91;R$ 4,95;R$ 5,91;R$ 4,95;R$ 0,96;16%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;5;R$ 4,00;R$ 0,00;Não
+25/08/2017;Etanol;2;R$ 3,62;R$ 2,87;R$ 7,24;R$ 5,74;R$ 1,50;21%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;5;R$ 15,00;R$ 0,00;Não
+19/09/2015;Diesel;5;R$ 5,28;R$ 4,39;R$ 26,40;R$ 21,95;R$ 4,45;17%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;1;R$ 10,00;R$ 10,00;Sim
+03/09/2017;Diesel;4;R$ 5,41;R$ 4,17;R$ 21,64;R$ 16,68;R$ 4,96;23%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;2;R$ 15,00;R$ 0,00;Não
+13/03/2025;Diesel;1;R$ 5,22;R$ 4,83;R$ 5,22;R$ 4,83;R$ 0,39;7%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;1;R$ 15,00;R$ 15,00;Sim
+17/04/2016;Etanol;1;R$ 3,95;R$ 2,72;R$ 3,95;R$ 2,72;R$ 1,23;31%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 4,00;R$ 0,00;Não
+02/08/2023;Gasolina;2;R$ 6,28;R$ 5,06;R$ 12,56;R$ 10,12;R$ 2,44;19%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 10,00;R$ 0,00;Não
+27/08/2018;Etanol;3;R$ 4,06;R$ 3,15;R$ 12,18;R$ 9,45;R$ 2,73;22%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;4;R$ 30,00;R$ 0,00;Não
+13/08/2020;Diesel;4;R$ 5,48;R$ 4,11;R$ 21,92;R$ 16,44;R$ 5,48;25%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 6,00;R$ 0,00;Não
+07/10/2017;Diesel;2;R$ 5,23;R$ 4,44;R$ 10,46;R$ 8,88;R$ 1,58;15%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 6,00;R$ 18,00;Sim
+28/11/2016;Diesel;4;R$ 5,13;R$ 4,03;R$ 20,52;R$ 16,12;R$ 4,40;21%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 6,00;R$ 0,00;Não
+18/07/2022;Diesel;5;R$ 5,04;R$ 4,69;R$ 25,20;R$ 23,45;R$ 1,75;7%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 5,00;R$ 5,00;Sim
+19/03/2025;Etanol;4;R$ 3,76;R$ 3,48;R$ 15,04;R$ 13,92;R$ 1,12;7%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 245,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;2;R$ 6,00;R$ 0,00;Não
+27/02/2025;Gasolina;2;R$ 5,66;R$ 4,89;R$ 11,32;R$ 9,78;R$ 1,54;14%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;3;R$ 5,00;R$ 0,00;Não
+19/05/2018;Gasolina;2;R$ 6,25;R$ 4,77;R$ 12,50;R$ 9,54;R$ 2,96;24%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;5;R$ 10,00;R$ 50,00;Sim
+27/01/2022;Gasolina;2;R$ 6,32;R$ 4,69;R$ 12,64;R$ 9,38;R$ 3,26;26%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;4;R$ 25,00;R$ 100,00;Sim
+11/06/2018;Diesel;4;R$ 5,95;R$ 4,41;R$ 23,80;R$ 17,64;R$ 6,16;26%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 8,00;R$ 0,00;Não
+17/12/2016;Gasolina;3;R$ 6,20;R$ 4,65;R$ 18,60;R$ 13,95;R$ 4,65;25%;João;Manhã;Bomba 5;Etanol;Ilha 3;Sim;R$ 175,00;Vazamento;Com perda;Energético;Bebidas;5;R$ 8,00;R$ 0,00;Não
+14/09/2018;Gasolina;1;R$ 6,50;R$ 5,06;R$ 6,50;R$ 5,06;R$ 1,44;22%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;1;R$ 25,00;R$ 0,00;Não
+16/04/2022;Gasolina;5;R$ 6,46;R$ 5,43;R$ 32,30;R$ 27,15;R$ 5,15;16%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;5;R$ 10,00;R$ 0,00;Não
+05/11/2019;Diesel;3;R$ 5,39;R$ 4,07;R$ 16,17;R$ 12,21;R$ 3,96;24%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 6,00;R$ 24,00;Sim
+07/10/2018;Diesel;4;R$ 5,98;R$ 4,08;R$ 23,92;R$ 16,32;R$ 7,60;32%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;1;R$ 7,00;R$ 7,00;Sim
+19/03/2023;Diesel;3;R$ 5,04;R$ 4,23;R$ 15,12;R$ 12,69;R$ 2,43;16%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;2;R$ 15,00;R$ 0,00;Não
+26/08/2015;Gasolina;2;R$ 6,27;R$ 4,79;R$ 12,54;R$ 9,58;R$ 2,96;24%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 15,00;R$ 0,00;Não
+19/05/2019;Gasolina;4;R$ 6,00;R$ 4,86;R$ 24,00;R$ 19,44;R$ 4,56;19%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;4;R$ 25,00;R$ 0,00;Não
+28/09/2021;Diesel;2;R$ 5,30;R$ 4,47;R$ 10,60;R$ 8,94;R$ 1,66;16%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;5;R$ 7,00;R$ 0,00;Não
+08/10/2019;Etanol;2;R$ 3,64;R$ 2,86;R$ 7,28;R$ 5,72;R$ 1,56;21%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 30,00;R$ 0,00;Não
+11/02/2025;Gasolina;1;R$ 5,96;R$ 4,57;R$ 5,96;R$ 4,57;R$ 1,39;23%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;1;R$ 4,00;R$ 4,00;Sim
+11/02/2023;Gasolina;2;R$ 6,12;R$ 5,36;R$ 12,24;R$ 10,72;R$ 1,52;12%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;1;R$ 15,00;R$ 0,00;Não
+04/11/2020;Etanol;3;R$ 4,10;R$ 3,36;R$ 12,30;R$ 10,08;R$ 2,22;18%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;4;R$ 5,00;R$ 0,00;Não
+15/11/2018;Gasolina;5;R$ 5,73;R$ 5,18;R$ 28,65;R$ 25,90;R$ 2,75;10%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;1;R$ 15,00;R$ 15,00;Sim
+25/03/2025;Etanol;3;R$ 3,73;R$ 2,81;R$ 11,19;R$ 8,43;R$ 2,76;25%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 4,00;R$ 8,00;Sim
+24/03/2016;Etanol;3;R$ 4,43;R$ 3,25;R$ 13,29;R$ 9,75;R$ 3,54;27%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;1;R$ 7,00;R$ 0,00;Não
+18/08/2025;Gasolina;5;R$ 5,73;R$ 4,90;R$ 28,65;R$ 24,50;R$ 4,15;14%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;1;R$ 4,00;R$ 0,00;Não
+09/04/2025;Etanol;5;R$ 4,33;R$ 2,89;R$ 21,65;R$ 14,45;R$ 7,20;33%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;3;R$ 3,00;R$ 9,00;Sim
+11/03/2021;Diesel;3;R$ 5,47;R$ 4,75;R$ 16,41;R$ 14,25;R$ 2,16;13%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;1;R$ 15,00;R$ 0,00;Não
+10/04/2025;Etanol;4;R$ 3,53;R$ 3,42;R$ 14,12;R$ 13,68;R$ 0,44;3%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;4;R$ 5,00;R$ 20,00;Sim
+20/02/2019;Etanol;3;R$ 3,55;R$ 3,28;R$ 10,65;R$ 9,84;R$ 0,81;8%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;3;R$ 8,00;R$ 0,00;Não
+15/08/2018;Etanol;5;R$ 3,60;R$ 2,83;R$ 18,00;R$ 14,15;R$ 3,85;21%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;3;R$ 3,00;R$ 9,00;Sim
+09/12/2016;Gasolina;4;R$ 6,29;R$ 5,09;R$ 25,16;R$ 20,36;R$ 4,80;19%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 15,00;R$ 0,00;Não
+10/05/2019;Etanol;1;R$ 4,48;R$ 2,50;R$ 4,48;R$ 2,50;R$ 1,98;44%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;5;R$ 5,00;R$ 0,00;Não
+19/12/2017;Etanol;1;R$ 4,27;R$ 3,46;R$ 4,27;R$ 3,46;R$ 0,81;19%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 8,00;R$ 0,00;Não
+24/02/2017;Etanol;5;R$ 3,99;R$ 3,24;R$ 19,95;R$ 16,20;R$ 3,75;19%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;4;R$ 7,00;R$ 0,00;Não
+20/10/2020;Diesel;4;R$ 5,08;R$ 4,84;R$ 20,32;R$ 19,36;R$ 0,96;5%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 15,00;R$ 30,00;Sim
+27/03/2024;Diesel;2;R$ 5,56;R$ 4,99;R$ 11,12;R$ 9,98;R$ 1,14;10%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 10,00;R$ 0,00;Não
+26/12/2025;Gasolina;4;R$ 6,23;R$ 4,78;R$ 24,92;R$ 19,12;R$ 5,80;23%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 25,00;R$ 0,00;Não
+13/02/2025;Gasolina;5;R$ 5,98;R$ 5,15;R$ 29,90;R$ 25,75;R$ 4,15;14%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;1;R$ 7,00;R$ 0,00;Não
+25/12/2015;Gasolina;4;R$ 5,61;R$ 5,20;R$ 22,44;R$ 20,80;R$ 1,64;7%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 25,00;R$ 0,00;Não
+16/02/2016;Gasolina;3;R$ 6,23;R$ 4,59;R$ 18,69;R$ 13,77;R$ 4,92;26%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;2;R$ 25,00;R$ 50,00;Sim
+06/12/2018;Diesel;2;R$ 5,73;R$ 4,66;R$ 11,46;R$ 9,32;R$ 2,14;19%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 25,00;R$ 0,00;Não
+03/02/2018;Diesel;1;R$ 5,34;R$ 4,50;R$ 5,34;R$ 4,50;R$ 0,84;16%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 93,00;Vazamento;Com perda;Aditivo;Automotivo;4;R$ 10,00;R$ 0,00;Não
+19/08/2021;Gasolina;2;R$ 5,66;R$ 5,20;R$ 11,32;R$ 10,40;R$ 0,92;8%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;4;R$ 25,00;R$ 0,00;Não
+26/04/2025;Gasolina;4;R$ 6,23;R$ 5,17;R$ 24,92;R$ 20,68;R$ 4,24;17%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 10,00;R$ 0,00;Não
+07/02/2023;Gasolina;2;R$ 5,65;R$ 5,33;R$ 11,30;R$ 10,66;R$ 0,64;6%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 6,00;R$ 0,00;Não
+10/04/2024;Gasolina;3;R$ 5,63;R$ 5,48;R$ 16,89;R$ 16,44;R$ 0,45;3%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 4,00;R$ 0,00;Não
+02/09/2023;Etanol;5;R$ 3,56;R$ 2,58;R$ 17,80;R$ 12,90;R$ 4,90;28%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;5;R$ 25,00;R$ 125,00;Sim
+23/10/2016;Etanol;4;R$ 4,11;R$ 3,11;R$ 16,44;R$ 12,44;R$ 4,00;24%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 30,00;R$ 90,00;Sim
+05/08/2018;Diesel;2;R$ 5,50;R$ 4,36;R$ 11,00;R$ 8,72;R$ 2,28;21%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;1;R$ 4,00;R$ 0,00;Não
+27/06/2020;Etanol;4;R$ 4,09;R$ 3,38;R$ 16,36;R$ 13,52;R$ 2,84;17%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 30,00;R$ 0,00;Não
+08/05/2020;Diesel;2;R$ 5,45;R$ 4,67;R$ 10,90;R$ 9,34;R$ 1,56;14%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;4;R$ 6,00;R$ 0,00;Não
+14/06/2015;Diesel;2;R$ 5,74;R$ 4,91;R$ 11,48;R$ 9,82;R$ 1,66;14%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 25,00;R$ 0,00;Não
+12/05/2015;Etanol;5;R$ 4,09;R$ 2,54;R$ 20,45;R$ 12,70;R$ 7,75;38%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 15,00;R$ 15,00;Sim
+06/02/2024;Gasolina;4;R$ 5,52;R$ 5,35;R$ 22,08;R$ 21,40;R$ 0,68;3%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 8,00;R$ 16,00;Sim
+23/12/2016;Gasolina;2;R$ 5,50;R$ 4,74;R$ 11,00;R$ 9,48;R$ 1,52;14%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 8,00;R$ 40,00;Sim
+19/04/2025;Etanol;3;R$ 4,50;R$ 2,65;R$ 13,50;R$ 7,95;R$ 5,55;41%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+14/06/2024;Diesel;3;R$ 5,86;R$ 4,71;R$ 17,58;R$ 14,13;R$ 3,45;20%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;2;R$ 30,00;R$ 60,00;Sim
+21/08/2017;Etanol;3;R$ 3,60;R$ 3,23;R$ 10,80;R$ 9,69;R$ 1,11;10%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;2;R$ 10,00;R$ 0,00;Não
+12/08/2020;Etanol;1;R$ 4,29;R$ 3,01;R$ 4,29;R$ 3,01;R$ 1,28;30%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 25,00;R$ 0,00;Não
+26/12/2019;Etanol;2;R$ 3,82;R$ 2,89;R$ 7,64;R$ 5,78;R$ 1,86;24%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 15,00;R$ 0,00;Não
+09/06/2016;Diesel;5;R$ 5,99;R$ 4,29;R$ 29,95;R$ 21,45;R$ 8,50;28%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;2;R$ 8,00;R$ 0,00;Não
+20/06/2015;Diesel;1;R$ 5,26;R$ 4,36;R$ 5,26;R$ 4,36;R$ 0,90;17%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;1;R$ 4,00;R$ 4,00;Sim
+18/02/2021;Etanol;1;R$ 3,82;R$ 3,33;R$ 3,82;R$ 3,33;R$ 0,49;13%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;3;R$ 30,00;R$ 0,00;Não
+13/06/2015;Etanol;2;R$ 3,78;R$ 2,53;R$ 7,56;R$ 5,06;R$ 2,50;33%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 7,00;R$ 7,00;Sim
+06/01/2021;Gasolina;2;R$ 6,31;R$ 4,61;R$ 12,62;R$ 9,22;R$ 3,40;27%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;1;R$ 3,00;R$ 0,00;Não
+16/04/2019;Diesel;4;R$ 5,98;R$ 4,62;R$ 23,92;R$ 18,48;R$ 5,44;23%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;2;R$ 7,00;R$ 0,00;Não
+11/03/2025;Gasolina;1;R$ 5,83;R$ 5,46;R$ 5,83;R$ 5,46;R$ 0,37;6%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;2;R$ 4,00;R$ 0,00;Não
+15/02/2018;Etanol;2;R$ 3,99;R$ 2,88;R$ 7,98;R$ 5,76;R$ 2,22;28%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;3;R$ 8,00;R$ 0,00;Não
+15/06/2023;Etanol;2;R$ 3,64;R$ 2,97;R$ 7,28;R$ 5,94;R$ 1,34;18%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;2;R$ 10,00;R$ 0,00;Não
+05/01/2021;Etanol;1;R$ 4,38;R$ 2,95;R$ 4,38;R$ 2,95;R$ 1,43;33%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 7,00;R$ 35,00;Sim
+26/01/2016;Gasolina;5;R$ 5,89;R$ 5,26;R$ 29,45;R$ 26,30;R$ 3,15;11%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;4;R$ 30,00;R$ 0,00;Não
+06/05/2017;Etanol;5;R$ 3,56;R$ 2,52;R$ 17,80;R$ 12,60;R$ 5,20;29%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;2;R$ 5,00;R$ 0,00;Não
+05/10/2015;Diesel;4;R$ 5,99;R$ 4,08;R$ 23,96;R$ 16,32;R$ 7,64;32%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 30,00;R$ 0,00;Não
+01/11/2016;Etanol;5;R$ 4,26;R$ 3,15;R$ 21,30;R$ 15,75;R$ 5,55;26%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;3;R$ 4,00;R$ 0,00;Não
+20/12/2015;Diesel;5;R$ 5,77;R$ 4,61;R$ 28,85;R$ 23,05;R$ 5,80;20%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 3,00;R$ 0,00;Não
+09/08/2016;Diesel;5;R$ 5,30;R$ 4,81;R$ 26,50;R$ 24,05;R$ 2,45;9%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 5,00;R$ 20,00;Sim
+13/04/2016;Diesel;1;R$ 5,39;R$ 4,11;R$ 5,39;R$ 4,11;R$ 1,28;24%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 4,00;R$ 20,00;Sim
+27/01/2019;Gasolina;2;R$ 5,91;R$ 5,24;R$ 11,82;R$ 10,48;R$ 1,34;11%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;5;R$ 3,00;R$ 15,00;Sim
+09/12/2024;Etanol;1;R$ 3,97;R$ 3,28;R$ 3,97;R$ 3,28;R$ 0,69;17%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 30,00;R$ 120,00;Sim
+23/10/2019;Gasolina;3;R$ 5,51;R$ 5,33;R$ 16,53;R$ 15,99;R$ 0,54;3%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;3;R$ 5,00;R$ 15,00;Sim
+26/10/2021;Etanol;4;R$ 4,00;R$ 3,37;R$ 16,00;R$ 13,48;R$ 2,52;16%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+20/04/2022;Diesel;1;R$ 5,00;R$ 4,61;R$ 5,00;R$ 4,61;R$ 0,39;8%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;4;R$ 5,00;R$ 20,00;Sim
+12/06/2021;Diesel;2;R$ 5,14;R$ 4,92;R$ 10,28;R$ 9,84;R$ 0,44;4%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;1;R$ 8,00;R$ 8,00;Sim
+10/07/2019;Gasolina;4;R$ 6,27;R$ 5,46;R$ 25,08;R$ 21,84;R$ 3,24;13%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;5;R$ 7,00;R$ 0,00;Não
+14/01/2023;Etanol;3;R$ 4,30;R$ 3,02;R$ 12,90;R$ 9,06;R$ 3,84;30%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 7,00;R$ 0,00;Não
+05/10/2020;Diesel;4;R$ 5,98;R$ 4,57;R$ 23,92;R$ 18,28;R$ 5,64;24%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;5;R$ 7,00;R$ 0,00;Não
+28/12/2016;Gasolina;3;R$ 5,82;R$ 5,17;R$ 17,46;R$ 15,51;R$ 1,95;11%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;3;R$ 3,00;R$ 9,00;Sim
+01/06/2022;Etanol;3;R$ 3,83;R$ 2,67;R$ 11,49;R$ 8,01;R$ 3,48;30%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;5;R$ 6,00;R$ 0,00;Não
+17/09/2015;Etanol;1;R$ 3,62;R$ 2,98;R$ 3,62;R$ 2,98;R$ 0,64;18%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;3;R$ 10,00;R$ 0,00;Não
+22/02/2022;Gasolina;2;R$ 6,34;R$ 4,53;R$ 12,68;R$ 9,06;R$ 3,62;29%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;4;R$ 25,00;R$ 0,00;Não
+09/06/2020;Etanol;1;R$ 3,93;R$ 3,32;R$ 3,93;R$ 3,32;R$ 0,61;16%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 30,00;R$ 0,00;Não
+04/06/2023;Etanol;5;R$ 4,31;R$ 2,96;R$ 21,55;R$ 14,80;R$ 6,75;31%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 15,00;R$ 45,00;Sim
+13/12/2020;Etanol;1;R$ 4,38;R$ 2,61;R$ 4,38;R$ 2,61;R$ 1,77;40%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;5;R$ 30,00;R$ 0,00;Não
+12/11/2022;Diesel;1;R$ 5,36;R$ 4,65;R$ 5,36;R$ 4,65;R$ 0,71;13%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;5;R$ 10,00;R$ 50,00;Sim
+13/08/2025;Diesel;2;R$ 5,58;R$ 4,65;R$ 11,16;R$ 9,30;R$ 1,86;17%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 470,00;Falta de troco;Com perda;Refrigerante;Bebidas;5;R$ 6,00;R$ 0,00;Não
+06/11/2016;Diesel;5;R$ 5,37;R$ 4,04;R$ 26,85;R$ 20,20;R$ 6,65;25%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 8,00;R$ 0,00;Não
+08/12/2018;Diesel;5;R$ 5,93;R$ 4,47;R$ 29,65;R$ 22,35;R$ 7,30;25%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 6,00;R$ 30,00;Sim
+06/02/2020;Gasolina;2;R$ 6,38;R$ 5,40;R$ 12,76;R$ 10,80;R$ 1,96;15%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;2;R$ 8,00;R$ 0,00;Não
+04/09/2023;Etanol;5;R$ 3,70;R$ 3,36;R$ 18,50;R$ 16,80;R$ 1,70;9%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;2;R$ 3,00;R$ 6,00;Sim
+10/02/2018;Etanol;3;R$ 4,04;R$ 3,46;R$ 12,12;R$ 10,38;R$ 1,74;14%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 5,00;R$ 15,00;Sim
+15/04/2025;Gasolina;2;R$ 5,93;R$ 4,96;R$ 11,86;R$ 9,92;R$ 1,94;16%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;3;R$ 7,00;R$ 0,00;Não
+04/09/2015;Etanol;3;R$ 4,04;R$ 2,63;R$ 12,12;R$ 7,89;R$ 4,23;35%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;3;R$ 10,00;R$ 0,00;Não
+11/02/2020;Etanol;3;R$ 3,65;R$ 2,87;R$ 10,95;R$ 8,61;R$ 2,34;21%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;4;R$ 10,00;R$ 0,00;Não
+13/02/2017;Gasolina;3;R$ 5,64;R$ 4,55;R$ 16,92;R$ 13,65;R$ 3,27;19%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;5;R$ 7,00;R$ 35,00;Sim
+05/10/2021;Gasolina;2;R$ 6,11;R$ 4,52;R$ 12,22;R$ 9,04;R$ 3,18;26%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 446,00;Desconto;Com perda;Refrigerante;Bebidas;4;R$ 3,00;R$ 0,00;Não
+02/04/2024;Gasolina;3;R$ 6,20;R$ 5,17;R$ 18,60;R$ 15,51;R$ 3,09;17%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 477,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;2;R$ 8,00;R$ 16,00;Sim
+07/09/2016;Etanol;3;R$ 3,92;R$ 3,25;R$ 11,76;R$ 9,75;R$ 2,01;17%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 7,00;R$ 14,00;Sim
+15/10/2025;Gasolina;3;R$ 5,99;R$ 4,68;R$ 17,97;R$ 14,04;R$ 3,93;22%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 30,00;R$ 0,00;Não
+05/03/2017;Etanol;5;R$ 3,58;R$ 3,12;R$ 17,90;R$ 15,60;R$ 2,30;13%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 10,00;R$ 40,00;Sim
+13/05/2021;Gasolina;1;R$ 6,44;R$ 5,10;R$ 6,44;R$ 5,10;R$ 1,34;21%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 8,00;R$ 40,00;Sim
+27/02/2015;Gasolina;2;R$ 6,14;R$ 5,25;R$ 12,28;R$ 10,50;R$ 1,78;14%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;4;R$ 5,00;R$ 20,00;Sim
+28/06/2018;Etanol;1;R$ 3,57;R$ 3,29;R$ 3,57;R$ 3,29;R$ 0,28;8%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 4,00;R$ 0,00;Não
+15/05/2021;Gasolina;3;R$ 5,95;R$ 5,48;R$ 17,85;R$ 16,44;R$ 1,41;8%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 7,00;R$ 14,00;Sim
+25/02/2018;Etanol;1;R$ 3,73;R$ 2,83;R$ 3,73;R$ 2,83;R$ 0,90;24%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 4,00;R$ 12,00;Sim
+25/06/2024;Etanol;5;R$ 3,72;R$ 3,33;R$ 18,60;R$ 16,65;R$ 1,95;10%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 148,00;Vazamento;Com perda;Óleo Motor;Automotivo;3;R$ 30,00;R$ 90,00;Sim
+12/08/2019;Gasolina;5;R$ 6,37;R$ 5,45;R$ 31,85;R$ 27,25;R$ 4,60;14%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 8,00;R$ 0,00;Não
+04/10/2021;Etanol;3;R$ 3,88;R$ 3,11;R$ 11,64;R$ 9,33;R$ 2,31;20%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 25,00;R$ 0,00;Não
+09/06/2019;Etanol;3;R$ 4,13;R$ 3,23;R$ 12,39;R$ 9,69;R$ 2,70;22%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;4;R$ 8,00;R$ 0,00;Não
+04/09/2021;Diesel;3;R$ 5,31;R$ 4,90;R$ 15,93;R$ 14,70;R$ 1,23;8%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;2;R$ 3,00;R$ 0,00;Não
+11/11/2015;Etanol;4;R$ 3,56;R$ 3,17;R$ 14,24;R$ 12,68;R$ 1,56;11%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;5;R$ 5,00;R$ 0,00;Não
+16/08/2024;Gasolina;4;R$ 5,74;R$ 4,83;R$ 22,96;R$ 19,32;R$ 3,64;16%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;5;R$ 6,00;R$ 30,00;Sim
+11/11/2024;Etanol;4;R$ 4,43;R$ 2,95;R$ 17,72;R$ 11,80;R$ 5,92;33%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 10,00;R$ 50,00;Sim
+02/03/2015;Diesel;2;R$ 5,49;R$ 4,44;R$ 10,98;R$ 8,88;R$ 2,10;19%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;1;R$ 6,00;R$ 6,00;Sim
+18/03/2024;Gasolina;1;R$ 5,51;R$ 5,09;R$ 5,51;R$ 5,09;R$ 0,42;8%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;2;R$ 6,00;R$ 12,00;Sim
+23/02/2018;Diesel;1;R$ 5,86;R$ 4,24;R$ 5,86;R$ 4,24;R$ 1,62;28%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 10,00;R$ 0,00;Não
+27/02/2016;Etanol;5;R$ 4,23;R$ 2,80;R$ 21,15;R$ 14,00;R$ 7,15;34%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;2;R$ 25,00;R$ 0,00;Não
+13/01/2016;Diesel;4;R$ 5,07;R$ 4,58;R$ 20,28;R$ 18,32;R$ 1,96;10%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 8,00;R$ 0,00;Não
+21/04/2016;Diesel;3;R$ 5,14;R$ 4,29;R$ 15,42;R$ 12,87;R$ 2,55;17%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 25,00;R$ 0,00;Não
+16/06/2023;Etanol;1;R$ 3,57;R$ 2,82;R$ 3,57;R$ 2,82;R$ 0,75;21%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 0,00;Não
+03/01/2025;Etanol;2;R$ 4,11;R$ 2,51;R$ 8,22;R$ 5,02;R$ 3,20;39%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 25,00;R$ 0,00;Não
+08/12/2023;Diesel;3;R$ 5,32;R$ 4,72;R$ 15,96;R$ 14,16;R$ 1,80;11%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+08/03/2024;Diesel;1;R$ 5,89;R$ 4,37;R$ 5,89;R$ 4,37;R$ 1,52;26%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 243,00;Erro abastecimento;Com perda;Aditivo;Automotivo;5;R$ 7,00;R$ 0,00;Não
+02/08/2019;Etanol;5;R$ 4,48;R$ 2,52;R$ 22,40;R$ 12,60;R$ 9,80;44%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;4;R$ 6,00;R$ 24,00;Sim
+01/06/2015;Etanol;2;R$ 4,15;R$ 2,56;R$ 8,30;R$ 5,12;R$ 3,18;38%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;3;R$ 7,00;R$ 0,00;Não
+26/05/2016;Diesel;3;R$ 5,15;R$ 4,33;R$ 15,45;R$ 12,99;R$ 2,46;16%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 3,00;R$ 0,00;Não
+27/12/2017;Diesel;4;R$ 5,14;R$ 4,88;R$ 20,56;R$ 19,52;R$ 1,04;5%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 15,00;R$ 0,00;Não
+18/12/2022;Etanol;5;R$ 3,60;R$ 3,18;R$ 18,00;R$ 15,90;R$ 2,10;12%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;2;R$ 8,00;R$ 16,00;Sim
+13/03/2021;Etanol;2;R$ 4,20;R$ 2,84;R$ 8,40;R$ 5,68;R$ 2,72;32%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 10,00;R$ 0,00;Não
+05/02/2023;Diesel;1;R$ 5,85;R$ 4,33;R$ 5,85;R$ 4,33;R$ 1,52;26%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 15,00;R$ 0,00;Não
+19/01/2023;Diesel;4;R$ 5,16;R$ 4,52;R$ 20,64;R$ 18,08;R$ 2,56;12%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 15,00;Sim
+28/12/2020;Gasolina;2;R$ 5,63;R$ 4,52;R$ 11,26;R$ 9,04;R$ 2,22;20%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 3,00;R$ 0,00;Não
+12/11/2020;Etanol;3;R$ 4,43;R$ 2,64;R$ 13,29;R$ 7,92;R$ 5,37;40%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 8,00;R$ 0,00;Não
+10/12/2017;Etanol;3;R$ 3,76;R$ 2,99;R$ 11,28;R$ 8,97;R$ 2,31;20%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 10,00;R$ 0,00;Não
+05/12/2017;Gasolina;1;R$ 5,54;R$ 4,90;R$ 5,54;R$ 4,90;R$ 0,64;12%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 7,00;R$ 14,00;Sim
+01/08/2023;Etanol;2;R$ 3,59;R$ 2,65;R$ 7,18;R$ 5,30;R$ 1,88;26%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 366,00;Desconto;Com perda;Água;Bebidas;4;R$ 6,00;R$ 24,00;Sim
+16/02/2020;Diesel;3;R$ 5,22;R$ 4,96;R$ 15,66;R$ 14,88;R$ 0,78;5%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 25,00;R$ 50,00;Sim
+09/11/2022;Diesel;5;R$ 5,54;R$ 4,34;R$ 27,70;R$ 21,70;R$ 6,00;22%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 15,00;R$ 0,00;Não
+28/12/2020;Diesel;1;R$ 5,73;R$ 4,18;R$ 5,73;R$ 4,18;R$ 1,55;27%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;5;R$ 30,00;R$ 0,00;Não
+28/06/2021;Gasolina;4;R$ 5,55;R$ 4,93;R$ 22,20;R$ 19,72;R$ 2,48;11%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;4;R$ 10,00;R$ 0,00;Não
+05/03/2020;Gasolina;5;R$ 5,68;R$ 5,38;R$ 28,40;R$ 26,90;R$ 1,50;5%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 30,00;R$ 30,00;Sim
+25/09/2019;Etanol;4;R$ 3,81;R$ 2,59;R$ 15,24;R$ 10,36;R$ 4,88;32%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;3;R$ 5,00;R$ 15,00;Sim
+04/03/2025;Gasolina;5;R$ 5,87;R$ 5,23;R$ 29,35;R$ 26,15;R$ 3,20;11%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;1;R$ 4,00;R$ 0,00;Não
+27/04/2024;Gasolina;1;R$ 5,81;R$ 5,20;R$ 5,81;R$ 5,20;R$ 0,61;10%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;1;R$ 4,00;R$ 0,00;Não
+28/09/2015;Diesel;5;R$ 5,64;R$ 4,30;R$ 28,20;R$ 21,50;R$ 6,70;24%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;4;R$ 8,00;R$ 0,00;Não
+19/07/2025;Etanol;2;R$ 4,47;R$ 2,69;R$ 8,94;R$ 5,38;R$ 3,56;40%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;2;R$ 4,00;R$ 0,00;Não
+21/02/2023;Etanol;3;R$ 3,61;R$ 3,20;R$ 10,83;R$ 9,60;R$ 1,23;11%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;1;R$ 7,00;R$ 0,00;Não
+23/01/2025;Diesel;2;R$ 5,33;R$ 5,00;R$ 10,66;R$ 10,00;R$ 0,66;6%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;4;R$ 30,00;R$ 120,00;Sim
+28/02/2017;Etanol;2;R$ 4,35;R$ 3,04;R$ 8,70;R$ 6,08;R$ 2,62;30%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 25,00;R$ 0,00;Não
+11/08/2023;Diesel;5;R$ 5,10;R$ 4,00;R$ 25,50;R$ 20,00;R$ 5,50;22%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 15,00;R$ 0,00;Não
+07/08/2021;Gasolina;3;R$ 6,02;R$ 5,23;R$ 18,06;R$ 15,69;R$ 2,37;13%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;5;R$ 8,00;R$ 0,00;Não
+27/07/2023;Etanol;5;R$ 3,93;R$ 2,68;R$ 19,65;R$ 13,40;R$ 6,25;32%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;3;R$ 10,00;R$ 0,00;Não
+21/09/2017;Gasolina;3;R$ 6,35;R$ 4,56;R$ 19,05;R$ 13,68;R$ 5,37;28%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;1;R$ 10,00;R$ 10,00;Sim
+07/09/2018;Diesel;1;R$ 5,22;R$ 4,92;R$ 5,22;R$ 4,92;R$ 0,30;6%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 15,00;R$ 0,00;Não
+10/11/2018;Diesel;3;R$ 5,58;R$ 4,96;R$ 16,74;R$ 14,88;R$ 1,86;11%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 30,00;R$ 150,00;Sim
+23/08/2025;Gasolina;3;R$ 5,50;R$ 5,27;R$ 16,50;R$ 15,81;R$ 0,69;4%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 10,00;R$ 20,00;Sim
+15/12/2023;Gasolina;1;R$ 6,48;R$ 5,08;R$ 6,48;R$ 5,08;R$ 1,40;22%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;4;R$ 7,00;R$ 0,00;Não
+26/08/2020;Etanol;3;R$ 4,07;R$ 2,82;R$ 12,21;R$ 8,46;R$ 3,75;31%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 169,00;Erro abastecimento;Com perda;Aditivo;Automotivo;2;R$ 10,00;R$ 20,00;Sim
+09/07/2021;Gasolina;5;R$ 5,66;R$ 4,93;R$ 28,30;R$ 24,65;R$ 3,65;13%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 353,00;Desconto;Com perda;Aditivo;Automotivo;2;R$ 4,00;R$ 0,00;Não
+24/08/2018;Diesel;5;R$ 5,44;R$ 4,73;R$ 27,20;R$ 23,65;R$ 3,55;13%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 10,00;R$ 0,00;Não
+02/11/2025;Diesel;4;R$ 5,98;R$ 4,44;R$ 23,92;R$ 17,76;R$ 6,16;26%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;1;R$ 30,00;R$ 0,00;Não
+21/07/2017;Diesel;2;R$ 5,80;R$ 4,77;R$ 11,60;R$ 9,54;R$ 2,06;18%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;1;R$ 10,00;R$ 0,00;Não
+03/05/2020;Etanol;4;R$ 4,07;R$ 2,67;R$ 16,28;R$ 10,68;R$ 5,60;34%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 287,00;Erro abastecimento;Com perda;Refrigerante;Bebidas;3;R$ 8,00;R$ 0,00;Não
+18/09/2015;Etanol;4;R$ 3,64;R$ 2,94;R$ 14,56;R$ 11,76;R$ 2,80;19%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 5,00;R$ 0,00;Não
+09/04/2016;Gasolina;2;R$ 5,96;R$ 5,49;R$ 11,92;R$ 10,98;R$ 0,94;8%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 3,00;R$ 0,00;Não
+19/06/2018;Gasolina;4;R$ 5,99;R$ 5,06;R$ 23,96;R$ 20,24;R$ 3,72;16%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 5,00;R$ 0,00;Não
+01/11/2022;Gasolina;1;R$ 5,55;R$ 4,59;R$ 5,55;R$ 4,59;R$ 0,96;17%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;3;R$ 7,00;R$ 0,00;Não
+05/03/2015;Etanol;5;R$ 4,43;R$ 3,29;R$ 22,15;R$ 16,45;R$ 5,70;26%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 6,00;R$ 0,00;Não
+19/07/2023;Etanol;4;R$ 4,23;R$ 2,94;R$ 16,92;R$ 11,76;R$ 5,16;30%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;5;R$ 5,00;R$ 0,00;Não
+22/02/2016;Diesel;5;R$ 5,12;R$ 4,28;R$ 25,60;R$ 21,40;R$ 4,20;16%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;3;R$ 6,00;R$ 18,00;Sim
+28/01/2022;Gasolina;5;R$ 6,30;R$ 4,59;R$ 31,50;R$ 22,95;R$ 8,55;27%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;2;R$ 5,00;R$ 10,00;Sim
+25/10/2024;Diesel;4;R$ 5,02;R$ 4,98;R$ 20,08;R$ 19,92;R$ 0,16;1%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 25,00;R$ 0,00;Não
+17/01/2025;Etanol;3;R$ 3,51;R$ 2,97;R$ 10,53;R$ 8,91;R$ 1,62;15%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 3,00;R$ 0,00;Não
+07/05/2019;Etanol;4;R$ 4,13;R$ 3,05;R$ 16,52;R$ 12,20;R$ 4,32;26%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;4;R$ 3,00;R$ 0,00;Não
+10/06/2023;Etanol;5;R$ 4,35;R$ 3,47;R$ 21,75;R$ 17,35;R$ 4,40;20%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;1;R$ 30,00;R$ 0,00;Não
+07/03/2021;Diesel;5;R$ 5,17;R$ 4,84;R$ 25,85;R$ 24,20;R$ 1,65;6%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 6,00;R$ 0,00;Não
+08/06/2015;Etanol;2;R$ 3,95;R$ 3,23;R$ 7,90;R$ 6,46;R$ 1,44;18%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;2;R$ 4,00;R$ 0,00;Não
+06/08/2017;Diesel;1;R$ 5,59;R$ 4,22;R$ 5,59;R$ 4,22;R$ 1,37;25%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;5;R$ 15,00;R$ 75,00;Sim
+09/09/2019;Diesel;3;R$ 5,98;R$ 4,95;R$ 17,94;R$ 14,85;R$ 3,09;17%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 15,00;R$ 0,00;Não
+02/09/2018;Etanol;5;R$ 3,81;R$ 3,15;R$ 19,05;R$ 15,75;R$ 3,30;17%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 475,00;Falta de troco;Com perda;Água;Bebidas;3;R$ 6,00;R$ 0,00;Não
+25/09/2023;Etanol;4;R$ 3,96;R$ 3,14;R$ 15,84;R$ 12,56;R$ 3,28;21%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;1;R$ 15,00;R$ 15,00;Sim
+22/08/2020;Diesel;2;R$ 5,18;R$ 4,28;R$ 10,36;R$ 8,56;R$ 1,80;17%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;3;R$ 15,00;R$ 0,00;Não
+13/12/2017;Etanol;3;R$ 3,70;R$ 2,80;R$ 11,10;R$ 8,40;R$ 2,70;24%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;3;R$ 25,00;R$ 0,00;Não
+19/04/2019;Gasolina;4;R$ 6,23;R$ 5,34;R$ 24,92;R$ 21,36;R$ 3,56;14%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;3;R$ 5,00;R$ 0,00;Não
+22/04/2019;Diesel;1;R$ 5,16;R$ 4,59;R$ 5,16;R$ 4,59;R$ 0,57;11%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 30,00;R$ 0,00;Não
+09/07/2023;Diesel;1;R$ 5,52;R$ 4,80;R$ 5,52;R$ 4,80;R$ 0,72;13%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;4;R$ 8,00;R$ 0,00;Não
+03/01/2019;Diesel;2;R$ 5,34;R$ 4,84;R$ 10,68;R$ 9,68;R$ 1,00;9%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 8,00;R$ 0,00;Não
+16/01/2023;Gasolina;5;R$ 5,57;R$ 4,54;R$ 27,85;R$ 22,70;R$ 5,15;18%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;1;R$ 6,00;R$ 0,00;Não
+03/10/2022;Gasolina;5;R$ 6,46;R$ 5,37;R$ 32,30;R$ 26,85;R$ 5,45;17%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;2;R$ 30,00;R$ 60,00;Sim
+13/04/2024;Diesel;2;R$ 5,08;R$ 4,02;R$ 10,16;R$ 8,04;R$ 2,12;21%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+08/05/2022;Etanol;3;R$ 3,66;R$ 2,51;R$ 10,98;R$ 7,53;R$ 3,45;31%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;5;R$ 8,00;R$ 0,00;Não
+10/09/2023;Etanol;1;R$ 4,41;R$ 3,04;R$ 4,41;R$ 3,04;R$ 1,37;31%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;5;R$ 6,00;R$ 30,00;Sim
+04/04/2020;Etanol;3;R$ 4,21;R$ 3,32;R$ 12,63;R$ 9,96;R$ 2,67;21%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 10,00;R$ 0,00;Não
+16/02/2020;Gasolina;5;R$ 6,04;R$ 5,04;R$ 30,20;R$ 25,20;R$ 5,00;17%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;5;R$ 6,00;R$ 30,00;Sim
+24/08/2021;Diesel;1;R$ 5,13;R$ 4,68;R$ 5,13;R$ 4,68;R$ 0,45;9%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;2;R$ 4,00;R$ 0,00;Não
+13/09/2019;Gasolina;4;R$ 5,91;R$ 5,28;R$ 23,64;R$ 21,12;R$ 2,52;11%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;3;R$ 25,00;R$ 75,00;Sim
+19/02/2016;Diesel;2;R$ 5,75;R$ 4,29;R$ 11,50;R$ 8,58;R$ 2,92;25%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 3,00;R$ 12,00;Sim
+18/04/2023;Diesel;1;R$ 5,14;R$ 4,21;R$ 5,14;R$ 4,21;R$ 0,93;18%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 25,00;R$ 0,00;Não
+14/12/2023;Gasolina;4;R$ 5,80;R$ 5,32;R$ 23,20;R$ 21,28;R$ 1,92;8%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 10,00;R$ 0,00;Não
+11/08/2019;Diesel;3;R$ 5,51;R$ 4,01;R$ 16,53;R$ 12,03;R$ 4,50;27%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;2;R$ 4,00;R$ 8,00;Sim
+09/02/2025;Gasolina;3;R$ 5,96;R$ 4,64;R$ 17,88;R$ 13,92;R$ 3,96;22%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;5;R$ 25,00;R$ 0,00;Não
+12/06/2017;Gasolina;1;R$ 5,74;R$ 5,24;R$ 5,74;R$ 5,24;R$ 0,50;9%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;1;R$ 25,00;R$ 0,00;Não
+13/04/2021;Etanol;4;R$ 4,13;R$ 3,36;R$ 16,52;R$ 13,44;R$ 3,08;19%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 15,00;R$ 0,00;Não
+08/03/2020;Gasolina;4;R$ 6,29;R$ 4,98;R$ 25,16;R$ 19,92;R$ 5,24;21%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 277,00;Erro abastecimento;Com perda;Aditivo;Automotivo;4;R$ 8,00;R$ 32,00;Sim
+20/06/2025;Diesel;3;R$ 5,05;R$ 4,21;R$ 15,15;R$ 12,63;R$ 2,52;17%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;2;R$ 6,00;R$ 0,00;Não
+22/12/2019;Etanol;4;R$ 4,08;R$ 2,73;R$ 16,32;R$ 10,92;R$ 5,40;33%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 188,00;Falta de troco;Com perda;Salgadinho;Alimentos;3;R$ 7,00;R$ 0,00;Não
+12/05/2024;Gasolina;1;R$ 5,92;R$ 5,24;R$ 5,92;R$ 5,24;R$ 0,68;11%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 6,00;R$ 30,00;Sim
+04/12/2023;Gasolina;1;R$ 5,55;R$ 5,31;R$ 5,55;R$ 5,31;R$ 0,24;4%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;1;R$ 30,00;R$ 0,00;Não
+04/01/2021;Gasolina;4;R$ 6,22;R$ 5,12;R$ 24,88;R$ 20,48;R$ 4,40;18%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Sim;R$ 376,00;Vazamento;Com perda;Cigarro;Conveniência;3;R$ 25,00;R$ 0,00;Não
+23/11/2023;Etanol;2;R$ 4,44;R$ 2,88;R$ 8,88;R$ 5,76;R$ 3,12;35%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 4,00;R$ 16,00;Sim
+22/11/2015;Diesel;5;R$ 5,03;R$ 4,54;R$ 25,15;R$ 22,70;R$ 2,45;10%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;4;R$ 10,00;R$ 0,00;Não
+12/05/2020;Diesel;5;R$ 5,94;R$ 4,67;R$ 29,70;R$ 23,35;R$ 6,35;21%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;2;R$ 6,00;R$ 12,00;Sim
+20/03/2023;Diesel;5;R$ 5,88;R$ 4,63;R$ 29,40;R$ 23,15;R$ 6,25;21%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Sim;R$ 454,00;Erro abastecimento;Com perda;Chocolate;Alimentos;2;R$ 4,00;R$ 0,00;Não
+05/02/2025;Diesel;5;R$ 5,29;R$ 4,35;R$ 26,45;R$ 21,75;R$ 4,70;18%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 7,00;R$ 0,00;Não
+01/08/2019;Diesel;5;R$ 5,82;R$ 4,66;R$ 29,10;R$ 23,30;R$ 5,80;20%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 3,00;R$ 0,00;Não
+17/03/2018;Diesel;5;R$ 5,52;R$ 4,30;R$ 27,60;R$ 21,50;R$ 6,10;22%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+04/02/2015;Gasolina;4;R$ 5,57;R$ 4,78;R$ 22,28;R$ 19,12;R$ 3,16;14%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;5;R$ 10,00;R$ 50,00;Sim
+13/11/2016;Etanol;1;R$ 4,26;R$ 2,61;R$ 4,26;R$ 2,61;R$ 1,65;39%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;1;R$ 5,00;R$ 5,00;Sim
+13/03/2025;Etanol;2;R$ 4,24;R$ 2,81;R$ 8,48;R$ 5,62;R$ 2,86;34%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 4,00;R$ 0,00;Não
+20/01/2017;Gasolina;1;R$ 6,37;R$ 4,66;R$ 6,37;R$ 4,66;R$ 1,71;27%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;5;R$ 10,00;R$ 50,00;Sim
+28/03/2025;Etanol;3;R$ 3,89;R$ 3,11;R$ 11,67;R$ 9,33;R$ 2,34;20%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 3,00;Sim
+27/04/2017;Diesel;2;R$ 5,53;R$ 4,19;R$ 11,06;R$ 8,38;R$ 2,68;24%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;3;R$ 30,00;R$ 0,00;Não
+04/07/2021;Gasolina;5;R$ 6,01;R$ 5,27;R$ 30,05;R$ 26,35;R$ 3,70;12%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;2;R$ 8,00;R$ 16,00;Sim
+04/04/2021;Diesel;5;R$ 5,11;R$ 4,69;R$ 25,55;R$ 23,45;R$ 2,10;8%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;5;R$ 6,00;R$ 0,00;Não
+08/11/2021;Diesel;3;R$ 5,53;R$ 4,74;R$ 16,59;R$ 14,22;R$ 2,37;14%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 7,00;R$ 0,00;Não
+17/08/2022;Gasolina;3;R$ 5,65;R$ 4,60;R$ 16,95;R$ 13,80;R$ 3,15;19%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;3;R$ 25,00;R$ 75,00;Sim
+18/01/2016;Etanol;5;R$ 4,11;R$ 2,94;R$ 20,55;R$ 14,70;R$ 5,85;28%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 333,00;Desconto;Com perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 0,00;Não
+07/04/2025;Gasolina;2;R$ 5,89;R$ 5,11;R$ 11,78;R$ 10,22;R$ 1,56;13%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;3;R$ 10,00;R$ 0,00;Não
+15/07/2024;Diesel;1;R$ 5,59;R$ 4,90;R$ 5,59;R$ 4,90;R$ 0,69;12%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 8,00;R$ 32,00;Sim
+13/04/2022;Diesel;5;R$ 5,68;R$ 4,03;R$ 28,40;R$ 20,15;R$ 8,25;29%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 25,00;R$ 0,00;Não
+19/04/2023;Etanol;4;R$ 4,27;R$ 2,68;R$ 17,08;R$ 10,72;R$ 6,36;37%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 25,00;R$ 75,00;Sim
+17/02/2021;Gasolina;4;R$ 6,22;R$ 4,67;R$ 24,88;R$ 18,68;R$ 6,20;25%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;5;R$ 3,00;R$ 0,00;Não
+23/10/2015;Etanol;5;R$ 4,18;R$ 3,10;R$ 20,90;R$ 15,50;R$ 5,40;26%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;5;R$ 8,00;R$ 0,00;Não
+24/08/2024;Gasolina;2;R$ 6,10;R$ 5,29;R$ 12,20;R$ 10,58;R$ 1,62;13%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;5;R$ 3,00;R$ 0,00;Não
+11/07/2019;Diesel;2;R$ 5,63;R$ 4,14;R$ 11,26;R$ 8,28;R$ 2,98;26%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 0,00;Não
+06/11/2025;Diesel;2;R$ 5,77;R$ 4,42;R$ 11,54;R$ 8,84;R$ 2,70;23%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 5,00;R$ 0,00;Não
+04/09/2016;Etanol;5;R$ 4,36;R$ 3,15;R$ 21,80;R$ 15,75;R$ 6,05;28%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;4;R$ 15,00;R$ 0,00;Não
+10/04/2019;Diesel;1;R$ 5,06;R$ 4,06;R$ 5,06;R$ 4,06;R$ 1,00;20%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;5;R$ 15,00;R$ 75,00;Sim
+08/05/2018;Gasolina;2;R$ 6,01;R$ 4,52;R$ 12,02;R$ 9,04;R$ 2,98;25%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;1;R$ 7,00;R$ 0,00;Não
+23/07/2023;Gasolina;1;R$ 6,24;R$ 4,81;R$ 6,24;R$ 4,81;R$ 1,43;23%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 5,00;R$ 0,00;Não
+24/03/2025;Etanol;4;R$ 3,78;R$ 3,09;R$ 15,12;R$ 12,36;R$ 2,76;18%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 131,00;Vazamento;Com perda;Óleo Motor;Automotivo;2;R$ 25,00;R$ 0,00;Não
+08/03/2023;Etanol;2;R$ 3,69;R$ 2,88;R$ 7,38;R$ 5,76;R$ 1,62;22%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;3;R$ 3,00;R$ 0,00;Não
+01/10/2022;Gasolina;1;R$ 5,50;R$ 4,85;R$ 5,50;R$ 4,85;R$ 0,65;12%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;5;R$ 30,00;R$ 150,00;Sim
+10/09/2021;Etanol;1;R$ 3,62;R$ 3,28;R$ 3,62;R$ 3,28;R$ 0,34;9%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 30,00;R$ 90,00;Sim
+06/08/2022;Diesel;2;R$ 5,81;R$ 4,86;R$ 11,62;R$ 9,72;R$ 1,90;16%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;5;R$ 15,00;R$ 0,00;Não
+07/09/2015;Etanol;5;R$ 3,87;R$ 3,31;R$ 19,35;R$ 16,55;R$ 2,80;14%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 25,00;R$ 0,00;Não
+11/09/2019;Etanol;3;R$ 4,29;R$ 2,72;R$ 12,87;R$ 8,16;R$ 4,71;37%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;4;R$ 25,00;R$ 0,00;Não
+23/03/2015;Etanol;5;R$ 3,65;R$ 2,90;R$ 18,25;R$ 14,50;R$ 3,75;21%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 4,00;R$ 0,00;Não
+06/02/2023;Etanol;1;R$ 3,91;R$ 3,47;R$ 3,91;R$ 3,47;R$ 0,44;11%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;4;R$ 4,00;R$ 0,00;Não
+11/10/2022;Etanol;3;R$ 4,45;R$ 2,62;R$ 13,35;R$ 7,86;R$ 5,49;41%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 3,00;R$ 0,00;Não
+02/02/2021;Etanol;5;R$ 4,49;R$ 3,30;R$ 22,45;R$ 16,50;R$ 5,95;27%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 146,00;Desconto;Com perda;Aditivo;Automotivo;2;R$ 30,00;R$ 0,00;Não
+22/02/2023;Gasolina;4;R$ 6,38;R$ 4,77;R$ 25,52;R$ 19,08;R$ 6,44;25%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 7,00;R$ 0,00;Não
+17/02/2021;Etanol;5;R$ 4,16;R$ 3,48;R$ 20,80;R$ 17,40;R$ 3,40;16%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 4,00;R$ 0,00;Não
+02/12/2017;Diesel;2;R$ 5,75;R$ 4,21;R$ 11,50;R$ 8,42;R$ 3,08;27%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 0,00;Não
+03/10/2016;Gasolina;5;R$ 6,05;R$ 5,15;R$ 30,25;R$ 25,75;R$ 4,50;15%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+20/06/2020;Gasolina;1;R$ 6,19;R$ 4,55;R$ 6,19;R$ 4,55;R$ 1,64;26%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 125,00;Sim
+27/08/2021;Diesel;4;R$ 5,41;R$ 4,79;R$ 21,64;R$ 19,16;R$ 2,48;11%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;3;R$ 8,00;R$ 0,00;Não
+09/10/2015;Etanol;4;R$ 4,32;R$ 3,48;R$ 17,28;R$ 13,92;R$ 3,36;19%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 5,00;R$ 0,00;Não
+02/12/2018;Gasolina;3;R$ 6,23;R$ 4,80;R$ 18,69;R$ 14,40;R$ 4,29;23%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;1;R$ 3,00;R$ 0,00;Não
+27/04/2020;Diesel;3;R$ 5,39;R$ 4,32;R$ 16,17;R$ 12,96;R$ 3,21;20%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 5,00;R$ 0,00;Não
+05/01/2016;Gasolina;4;R$ 6,04;R$ 4,58;R$ 24,16;R$ 18,32;R$ 5,84;24%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 10,00;R$ 10,00;Sim
+15/12/2017;Gasolina;3;R$ 5,94;R$ 4,66;R$ 17,82;R$ 13,98;R$ 3,84;22%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;3;R$ 4,00;R$ 0,00;Não
+18/04/2023;Etanol;5;R$ 4,41;R$ 3,26;R$ 22,05;R$ 16,30;R$ 5,75;26%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 25,00;R$ 50,00;Sim
+19/08/2024;Etanol;5;R$ 4,37;R$ 2,78;R$ 21,85;R$ 13,90;R$ 7,95;36%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 30,00;R$ 120,00;Sim
+02/01/2022;Etanol;2;R$ 3,91;R$ 3,10;R$ 7,82;R$ 6,20;R$ 1,62;21%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 5,00;R$ 0,00;Não
+08/06/2016;Etanol;5;R$ 3,59;R$ 3,03;R$ 17,95;R$ 15,15;R$ 2,80;16%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;1;R$ 7,00;R$ 0,00;Não
+06/09/2022;Gasolina;2;R$ 6,01;R$ 4,90;R$ 12,02;R$ 9,80;R$ 2,22;18%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;5;R$ 8,00;R$ 0,00;Não
+22/11/2022;Gasolina;3;R$ 6,23;R$ 4,79;R$ 18,69;R$ 14,37;R$ 4,32;23%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;4;R$ 8,00;R$ 0,00;Não
+15/05/2016;Gasolina;5;R$ 6,02;R$ 4,68;R$ 30,10;R$ 23,40;R$ 6,70;22%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Sim;R$ 336,00;Falta de troco;Com perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+13/10/2017;Etanol;3;R$ 4,42;R$ 2,83;R$ 13,26;R$ 8,49;R$ 4,77;36%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 6,00;R$ 12,00;Sim
+25/08/2019;Gasolina;3;R$ 6,34;R$ 5,00;R$ 19,02;R$ 15,00;R$ 4,02;21%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;4;R$ 15,00;R$ 60,00;Sim
+27/11/2025;Gasolina;3;R$ 5,80;R$ 4,56;R$ 17,40;R$ 13,68;R$ 3,72;21%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;1;R$ 3,00;R$ 0,00;Não
+13/09/2018;Diesel;3;R$ 5,05;R$ 4,86;R$ 15,15;R$ 14,58;R$ 0,57;4%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;1;R$ 10,00;R$ 0,00;Não
+04/05/2020;Diesel;2;R$ 5,86;R$ 4,96;R$ 11,72;R$ 9,92;R$ 1,80;15%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;2;R$ 7,00;R$ 0,00;Não
+22/01/2023;Etanol;5;R$ 3,54;R$ 3,34;R$ 17,70;R$ 16,70;R$ 1,00;6%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;1;R$ 8,00;R$ 0,00;Não
+03/11/2021;Etanol;1;R$ 4,44;R$ 3,47;R$ 4,44;R$ 3,47;R$ 0,97;22%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 4,00;R$ 0,00;Não
+22/10/2024;Etanol;3;R$ 3,96;R$ 2,90;R$ 11,88;R$ 8,70;R$ 3,18;27%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Sim;R$ 193,00;Falta de troco;Com perda;Chocolate;Alimentos;4;R$ 4,00;R$ 16,00;Sim
+01/12/2022;Etanol;3;R$ 4,17;R$ 2,87;R$ 12,51;R$ 8,61;R$ 3,90;31%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 15,00;R$ 0,00;Não
+10/01/2022;Diesel;1;R$ 5,77;R$ 4,73;R$ 5,77;R$ 4,73;R$ 1,04;18%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 8,00;R$ 24,00;Sim
+19/03/2017;Diesel;5;R$ 5,55;R$ 4,37;R$ 27,75;R$ 21,85;R$ 5,90;21%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 101,00;Vazamento;Com perda;Limpador Parabrisa;Automotivo;4;R$ 8,00;R$ 0,00;Não
+27/01/2023;Diesel;2;R$ 5,07;R$ 4,37;R$ 10,14;R$ 8,74;R$ 1,40;14%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 8,00;R$ 0,00;Não
+05/12/2020;Etanol;4;R$ 3,99;R$ 3,37;R$ 15,96;R$ 13,48;R$ 2,48;16%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;4;R$ 5,00;R$ 0,00;Não
+13/12/2023;Diesel;3;R$ 5,84;R$ 4,85;R$ 17,52;R$ 14,55;R$ 2,97;17%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;5;R$ 5,00;R$ 0,00;Não
+13/01/2017;Etanol;1;R$ 3,87;R$ 3,13;R$ 3,87;R$ 3,13;R$ 0,74;19%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;1;R$ 3,00;R$ 0,00;Não
+17/10/2016;Diesel;2;R$ 5,98;R$ 4,12;R$ 11,96;R$ 8,24;R$ 3,72;31%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 15,00;R$ 0,00;Não
+12/02/2016;Etanol;2;R$ 3,75;R$ 2,56;R$ 7,50;R$ 5,12;R$ 2,38;32%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 6,00;R$ 0,00;Não
+19/07/2017;Gasolina;1;R$ 6,43;R$ 5,46;R$ 6,43;R$ 5,46;R$ 0,97;15%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 8,00;R$ 0,00;Não
+07/02/2019;Diesel;5;R$ 5,22;R$ 4,21;R$ 26,10;R$ 21,05;R$ 5,05;19%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;5;R$ 6,00;R$ 30,00;Sim
+20/07/2018;Diesel;4;R$ 5,23;R$ 4,25;R$ 20,92;R$ 17,00;R$ 3,92;19%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;2;R$ 15,00;R$ 30,00;Sim
+27/02/2024;Gasolina;3;R$ 6,17;R$ 5,04;R$ 18,51;R$ 15,12;R$ 3,39;18%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;4;R$ 10,00;R$ 40,00;Sim
+23/11/2023;Etanol;2;R$ 4,33;R$ 3,01;R$ 8,66;R$ 6,02;R$ 2,64;30%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;1;R$ 8,00;R$ 0,00;Não
+04/03/2019;Diesel;5;R$ 5,21;R$ 4,92;R$ 26,05;R$ 24,60;R$ 1,45;6%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 16,00;Sim
+08/12/2020;Etanol;3;R$ 4,28;R$ 2,59;R$ 12,84;R$ 7,77;R$ 5,07;39%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;4;R$ 30,00;R$ 0,00;Não
+06/09/2017;Diesel;4;R$ 5,07;R$ 4,08;R$ 20,28;R$ 16,32;R$ 3,96;20%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 10,00;R$ 10,00;Sim
+17/10/2018;Etanol;3;R$ 3,56;R$ 3,16;R$ 10,68;R$ 9,48;R$ 1,20;11%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 3,00;R$ 0,00;Não
+25/05/2016;Gasolina;5;R$ 6,48;R$ 4,54;R$ 32,40;R$ 22,70;R$ 9,70;30%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 4,00;R$ 0,00;Não
+13/06/2023;Diesel;4;R$ 5,83;R$ 4,64;R$ 23,32;R$ 18,56;R$ 4,76;20%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;1;R$ 4,00;R$ 0,00;Não
+16/01/2025;Etanol;2;R$ 3,83;R$ 2,75;R$ 7,66;R$ 5,50;R$ 2,16;28%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 5,00;R$ 0,00;Não
+09/05/2024;Etanol;1;R$ 3,72;R$ 2,85;R$ 3,72;R$ 2,85;R$ 0,87;23%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 177,00;Vazamento;Com perda;Energético;Bebidas;4;R$ 25,00;R$ 0,00;Não
+03/10/2019;Gasolina;5;R$ 5,71;R$ 5,34;R$ 28,55;R$ 26,70;R$ 1,85;6%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;4;R$ 4,00;R$ 0,00;Não
+28/09/2025;Gasolina;2;R$ 6,42;R$ 5,38;R$ 12,84;R$ 10,76;R$ 2,08;16%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+08/06/2022;Etanol;4;R$ 4,44;R$ 2,69;R$ 17,76;R$ 10,76;R$ 7,00;39%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;3;R$ 8,00;R$ 0,00;Não
+10/05/2018;Diesel;5;R$ 5,06;R$ 4,45;R$ 25,30;R$ 22,25;R$ 3,05;12%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 3,00;R$ 12,00;Sim
+04/08/2018;Diesel;3;R$ 5,44;R$ 4,38;R$ 16,32;R$ 13,14;R$ 3,18;19%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;2;R$ 15,00;R$ 0,00;Não
+10/01/2018;Etanol;1;R$ 3,51;R$ 2,55;R$ 3,51;R$ 2,55;R$ 0,96;27%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;4;R$ 8,00;R$ 0,00;Não
+04/11/2024;Diesel;1;R$ 5,04;R$ 4,58;R$ 5,04;R$ 4,58;R$ 0,46;9%;João;Manhã;Bomba 2;Etanol;Ilha 1;Sim;R$ 219,00;Falta de troco;Com perda;Chocolate;Alimentos;2;R$ 10,00;R$ 20,00;Sim
+10/04/2024;Etanol;3;R$ 4,07;R$ 3,14;R$ 12,21;R$ 9,42;R$ 2,79;23%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 4,00;R$ 0,00;Não
+14/03/2016;Diesel;2;R$ 5,56;R$ 4,23;R$ 11,12;R$ 8,46;R$ 2,66;24%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 10,00;R$ 0,00;Não
+13/06/2020;Etanol;2;R$ 3,76;R$ 3,48;R$ 7,52;R$ 6,96;R$ 0,56;7%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+10/10/2018;Gasolina;3;R$ 5,99;R$ 5,29;R$ 17,97;R$ 15,87;R$ 2,10;12%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;4;R$ 5,00;R$ 0,00;Não
+13/06/2020;Diesel;5;R$ 5,48;R$ 4,21;R$ 27,40;R$ 21,05;R$ 6,35;23%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;4;R$ 3,00;R$ 12,00;Sim
+05/03/2016;Etanol;4;R$ 3,71;R$ 3,01;R$ 14,84;R$ 12,04;R$ 2,80;19%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;4;R$ 30,00;R$ 0,00;Não
+08/07/2015;Gasolina;3;R$ 6,16;R$ 5,15;R$ 18,48;R$ 15,45;R$ 3,03;16%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;4;R$ 30,00;R$ 0,00;Não
+19/08/2017;Gasolina;4;R$ 5,57;R$ 5,07;R$ 22,28;R$ 20,28;R$ 2,00;9%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;2;R$ 15,00;R$ 30,00;Sim
+27/01/2016;Diesel;1;R$ 5,78;R$ 4,15;R$ 5,78;R$ 4,15;R$ 1,63;28%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;2;R$ 3,00;R$ 6,00;Sim
+19/07/2020;Etanol;2;R$ 4,21;R$ 3,04;R$ 8,42;R$ 6,08;R$ 2,34;28%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;2;R$ 15,00;R$ 0,00;Não
+04/06/2022;Gasolina;1;R$ 5,91;R$ 5,14;R$ 5,91;R$ 5,14;R$ 0,77;13%;João;Manhã;Bomba 2;Etanol;Ilha 1;Sim;R$ 86,00;Falta de troco;Com perda;Chocolate;Alimentos;2;R$ 25,00;R$ 0,00;Não
+05/01/2016;Gasolina;5;R$ 6,11;R$ 5,19;R$ 30,55;R$ 25,95;R$ 4,60;15%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;2;R$ 25,00;R$ 0,00;Não
+12/07/2023;Etanol;2;R$ 3,99;R$ 2,98;R$ 7,98;R$ 5,96;R$ 2,02;25%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 0,00;Não
+26/02/2024;Diesel;4;R$ 5,73;R$ 4,56;R$ 22,92;R$ 18,24;R$ 4,68;20%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;2;R$ 15,00;R$ 0,00;Não
+03/11/2022;Diesel;1;R$ 5,32;R$ 4,77;R$ 5,32;R$ 4,77;R$ 0,55;10%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;5;R$ 10,00;R$ 0,00;Não
+24/12/2021;Etanol;1;R$ 4,29;R$ 2,56;R$ 4,29;R$ 2,56;R$ 1,73;40%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 10,00;R$ 40,00;Sim
+17/06/2021;Gasolina;1;R$ 5,85;R$ 4,66;R$ 5,85;R$ 4,66;R$ 1,19;20%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;4;R$ 10,00;R$ 40,00;Sim
+19/10/2021;Diesel;4;R$ 5,54;R$ 4,89;R$ 22,16;R$ 19,56;R$ 2,60;12%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;3;R$ 15,00;R$ 0,00;Não
+17/08/2024;Diesel;4;R$ 5,95;R$ 4,57;R$ 23,80;R$ 18,28;R$ 5,52;23%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 200,00;Desconto;Com perda;Chocolate;Alimentos;1;R$ 3,00;R$ 0,00;Não
+11/04/2024;Etanol;4;R$ 4,13;R$ 2,91;R$ 16,52;R$ 11,64;R$ 4,88;30%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;5;R$ 4,00;R$ 0,00;Não
+28/11/2018;Gasolina;2;R$ 6,42;R$ 5,26;R$ 12,84;R$ 10,52;R$ 2,32;18%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 24,00;Sim
+15/12/2025;Gasolina;5;R$ 6,39;R$ 5,41;R$ 31,95;R$ 27,05;R$ 4,90;15%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;1;R$ 10,00;R$ 0,00;Não
+04/03/2023;Etanol;1;R$ 4,03;R$ 3,12;R$ 4,03;R$ 3,12;R$ 0,91;23%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 25,00;R$ 0,00;Não
+13/10/2016;Etanol;4;R$ 4,19;R$ 2,94;R$ 16,76;R$ 11,76;R$ 5,00;30%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;1;R$ 3,00;R$ 0,00;Não
+04/12/2023;Gasolina;4;R$ 6,18;R$ 4,81;R$ 24,72;R$ 19,24;R$ 5,48;22%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 0,00;Não
+12/08/2022;Etanol;1;R$ 4,40;R$ 2,91;R$ 4,40;R$ 2,91;R$ 1,49;34%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;2;R$ 8,00;R$ 0,00;Não
+21/01/2015;Gasolina;3;R$ 5,86;R$ 4,74;R$ 17,58;R$ 14,22;R$ 3,36;19%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;2;R$ 10,00;R$ 0,00;Não
+10/11/2023;Etanol;4;R$ 4,13;R$ 2,54;R$ 16,52;R$ 10,16;R$ 6,36;38%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 15,00;R$ 45,00;Sim
+08/06/2019;Gasolina;4;R$ 6,13;R$ 4,83;R$ 24,52;R$ 19,32;R$ 5,20;21%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;1;R$ 8,00;R$ 0,00;Não
+08/01/2015;Gasolina;4;R$ 5,70;R$ 4,79;R$ 22,80;R$ 19,16;R$ 3,64;16%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;2;R$ 25,00;R$ 0,00;Não
+20/02/2025;Gasolina;3;R$ 5,59;R$ 4,65;R$ 16,77;R$ 13,95;R$ 2,82;17%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;5;R$ 30,00;R$ 150,00;Sim
+18/08/2017;Diesel;2;R$ 5,34;R$ 4,92;R$ 10,68;R$ 9,84;R$ 0,84;8%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Sim;R$ 72,00;Desconto;Com perda;Energético;Bebidas;5;R$ 5,00;R$ 0,00;Não
+11/12/2015;Gasolina;5;R$ 5,95;R$ 5,36;R$ 29,75;R$ 26,80;R$ 2,95;10%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 421,00;Falta de troco;Com perda;Chocolate;Alimentos;5;R$ 5,00;R$ 0,00;Não
+23/12/2017;Diesel;3;R$ 5,90;R$ 4,35;R$ 17,70;R$ 13,05;R$ 4,65;26%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 4,00;R$ 12,00;Sim
+01/02/2018;Gasolina;4;R$ 5,59;R$ 5,28;R$ 22,36;R$ 21,12;R$ 1,24;6%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;4;R$ 25,00;R$ 100,00;Sim
+15/11/2022;Gasolina;5;R$ 5,81;R$ 4,86;R$ 29,05;R$ 24,30;R$ 4,75;16%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;5;R$ 5,00;R$ 25,00;Sim
+28/11/2022;Gasolina;2;R$ 5,80;R$ 4,68;R$ 11,60;R$ 9,36;R$ 2,24;19%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;3;R$ 7,00;R$ 21,00;Sim
+20/01/2025;Etanol;2;R$ 4,24;R$ 2,53;R$ 8,48;R$ 5,06;R$ 3,42;40%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 6,00;R$ 0,00;Não
+06/11/2016;Diesel;3;R$ 5,10;R$ 4,02;R$ 15,30;R$ 12,06;R$ 3,24;21%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 5,00;R$ 0,00;Não
+06/06/2015;Diesel;1;R$ 5,37;R$ 4,34;R$ 5,37;R$ 4,34;R$ 1,03;19%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 25,00;R$ 0,00;Não
+09/12/2022;Etanol;2;R$ 3,70;R$ 3,21;R$ 7,40;R$ 6,42;R$ 0,98;13%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 15,00;R$ 0,00;Não
+27/10/2023;Etanol;3;R$ 4,31;R$ 2,76;R$ 12,93;R$ 8,28;R$ 4,65;36%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 4,00;R$ 20,00;Sim
+26/09/2016;Gasolina;5;R$ 5,73;R$ 4,80;R$ 28,65;R$ 24,00;R$ 4,65;16%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Sim;R$ 179,00;Falta de troco;Com perda;Energético;Bebidas;3;R$ 8,00;R$ 24,00;Sim
+24/07/2022;Etanol;1;R$ 3,65;R$ 3,50;R$ 3,65;R$ 3,50;R$ 0,15;4%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;5;R$ 5,00;R$ 0,00;Não
+03/05/2016;Gasolina;3;R$ 6,21;R$ 4,64;R$ 18,63;R$ 13,92;R$ 4,71;25%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;2;R$ 8,00;R$ 0,00;Não
+13/10/2020;Gasolina;5;R$ 6,23;R$ 4,94;R$ 31,15;R$ 24,70;R$ 6,45;21%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;3;R$ 5,00;R$ 15,00;Sim
+12/07/2021;Diesel;1;R$ 5,88;R$ 4,98;R$ 5,88;R$ 4,98;R$ 0,90;15%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;2;R$ 15,00;R$ 0,00;Não
+28/09/2019;Diesel;4;R$ 5,66;R$ 4,70;R$ 22,64;R$ 18,80;R$ 3,84;17%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;5;R$ 15,00;R$ 0,00;Não
+23/08/2019;Etanol;4;R$ 3,58;R$ 3,15;R$ 14,32;R$ 12,60;R$ 1,72;12%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;3;R$ 30,00;R$ 0,00;Não
+15/03/2025;Diesel;4;R$ 5,45;R$ 4,51;R$ 21,80;R$ 18,04;R$ 3,76;17%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;1;R$ 10,00;R$ 0,00;Não
+25/07/2022;Gasolina;2;R$ 6,24;R$ 4,57;R$ 12,48;R$ 9,14;R$ 3,34;27%;João;Manhã;Bomba 3;Diesel;Ilha 2;Sim;R$ 304,00;Erro abastecimento;Com perda;Café;Bebidas;5;R$ 30,00;R$ 0,00;Não
+03/10/2019;Etanol;3;R$ 4,46;R$ 2,90;R$ 13,38;R$ 8,70;R$ 4,68;35%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 7,00;R$ 7,00;Sim
+05/04/2021;Etanol;5;R$ 3,91;R$ 3,11;R$ 19,55;R$ 15,55;R$ 4,00;20%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 6,00;R$ 24,00;Sim
+06/03/2015;Diesel;5;R$ 5,57;R$ 5,00;R$ 27,85;R$ 25,00;R$ 2,85;10%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 352,00;Vazamento;Com perda;Limpador Parabrisa;Automotivo;4;R$ 4,00;R$ 16,00;Sim
+07/02/2022;Gasolina;4;R$ 6,06;R$ 4,89;R$ 24,24;R$ 19,56;R$ 4,68;19%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;4;R$ 30,00;R$ 120,00;Sim
+07/07/2018;Diesel;5;R$ 5,12;R$ 4,08;R$ 25,60;R$ 20,40;R$ 5,20;20%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;5;R$ 25,00;R$ 0,00;Não
+11/02/2016;Etanol;4;R$ 3,74;R$ 3,24;R$ 14,96;R$ 12,96;R$ 2,00;13%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 5,00;R$ 0,00;Não
+18/07/2017;Etanol;2;R$ 4,48;R$ 3,11;R$ 8,96;R$ 6,22;R$ 2,74;31%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;4;R$ 30,00;R$ 0,00;Não
+20/01/2018;Gasolina;3;R$ 5,88;R$ 5,29;R$ 17,64;R$ 15,87;R$ 1,77;10%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;3;R$ 5,00;R$ 0,00;Não
+13/05/2019;Diesel;5;R$ 5,93;R$ 4,06;R$ 29,65;R$ 20,30;R$ 9,35;32%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 5,00;R$ 0,00;Não
+02/08/2021;Gasolina;4;R$ 6,45;R$ 5,48;R$ 25,80;R$ 21,92;R$ 3,88;15%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 8,00;R$ 40,00;Sim
+08/10/2019;Etanol;1;R$ 3,99;R$ 2,54;R$ 3,99;R$ 2,54;R$ 1,45;36%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 6,00;R$ 0,00;Não
+23/10/2015;Etanol;3;R$ 4,34;R$ 2,55;R$ 13,02;R$ 7,65;R$ 5,37;41%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 30,00;R$ 90,00;Sim
+04/04/2016;Diesel;3;R$ 5,93;R$ 4,54;R$ 17,79;R$ 13,62;R$ 4,17;23%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;4;R$ 8,00;R$ 32,00;Sim
+05/12/2024;Gasolina;5;R$ 5,85;R$ 5,33;R$ 29,25;R$ 26,65;R$ 2,60;9%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 5,00;R$ 20,00;Sim
+09/09/2017;Etanol;3;R$ 4,35;R$ 2,57;R$ 13,05;R$ 7,71;R$ 5,34;41%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;3;R$ 10,00;R$ 30,00;Sim
+06/05/2015;Diesel;1;R$ 5,34;R$ 4,48;R$ 5,34;R$ 4,48;R$ 0,86;16%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;3;R$ 6,00;R$ 18,00;Sim
+13/06/2015;Etanol;3;R$ 3,65;R$ 3,43;R$ 10,95;R$ 10,29;R$ 0,66;6%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;2;R$ 25,00;R$ 0,00;Não
+12/11/2022;Gasolina;2;R$ 5,81;R$ 5,05;R$ 11,62;R$ 10,10;R$ 1,52;13%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Água;Bebidas;2;R$ 7,00;R$ 0,00;Não
+21/06/2025;Etanol;4;R$ 3,65;R$ 2,65;R$ 14,60;R$ 10,60;R$ 4,00;27%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;2;R$ 5,00;R$ 0,00;Não
+16/07/2019;Gasolina;3;R$ 6,30;R$ 5,17;R$ 18,90;R$ 15,51;R$ 3,39;18%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 248,00;Desconto;Com perda;Água;Bebidas;1;R$ 8,00;R$ 8,00;Sim
+12/03/2017;Diesel;4;R$ 5,92;R$ 4,29;R$ 23,68;R$ 17,16;R$ 6,52;28%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;1;R$ 6,00;R$ 0,00;Não
+22/01/2024;Etanol;3;R$ 3,55;R$ 3,32;R$ 10,65;R$ 9,96;R$ 0,69;6%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Sim;R$ 293,00;Desconto;Com perda;Café;Bebidas;2;R$ 30,00;R$ 0,00;Não
+28/03/2017;Gasolina;1;R$ 6,47;R$ 5,45;R$ 6,47;R$ 5,45;R$ 1,02;16%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;4;R$ 8,00;R$ 0,00;Não
+02/09/2018;Diesel;1;R$ 5,52;R$ 4,02;R$ 5,52;R$ 4,02;R$ 1,50;27%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Refrigerante;Bebidas;4;R$ 8,00;R$ 0,00;Não
+06/01/2020;Gasolina;3;R$ 6,16;R$ 4,98;R$ 18,48;R$ 14,94;R$ 3,54;19%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 10,00;R$ 50,00;Sim
+22/01/2019;Etanol;4;R$ 3,53;R$ 3,21;R$ 14,12;R$ 12,84;R$ 1,28;9%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Café;Bebidas;3;R$ 4,00;R$ 12,00;Sim
+08/10/2023;Etanol;3;R$ 4,00;R$ 2,81;R$ 12,00;R$ 8,43;R$ 3,57;30%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;4;R$ 5,00;R$ 20,00;Sim
+15/09/2020;Gasolina;1;R$ 6,18;R$ 4,73;R$ 6,18;R$ 4,73;R$ 1,45;23%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;1;R$ 6,00;R$ 0,00;Não
+21/06/2021;Etanol;1;R$ 4,05;R$ 3,11;R$ 4,05;R$ 3,11;R$ 0,94;23%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 343,00;Vazamento;Com perda;Água;Bebidas;3;R$ 4,00;R$ 12,00;Sim
+04/03/2023;Diesel;4;R$ 5,26;R$ 4,64;R$ 21,04;R$ 18,56;R$ 2,48;12%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 15,00;R$ 0,00;Não
+02/11/2020;Etanol;4;R$ 4,32;R$ 3,43;R$ 17,28;R$ 13,72;R$ 3,56;21%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;4;R$ 25,00;R$ 0,00;Não
+18/01/2024;Etanol;2;R$ 3,56;R$ 2,84;R$ 7,12;R$ 5,68;R$ 1,44;20%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Sim;R$ 210,00;Desconto;Com perda;Chocolate;Alimentos;2;R$ 5,00;R$ 0,00;Não
+27/11/2020;Gasolina;3;R$ 5,64;R$ 4,96;R$ 16,92;R$ 14,88;R$ 2,04;12%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 25,00;R$ 75,00;Sim
+25/05/2018;Diesel;1;R$ 5,40;R$ 4,80;R$ 5,40;R$ 4,80;R$ 0,60;11%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 15,00;R$ 0,00;Não
+04/08/2015;Gasolina;5;R$ 6,29;R$ 4,69;R$ 31,45;R$ 23,45;R$ 8,00;25%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Sim;R$ 50,00;Desconto;Com perda;Café;Bebidas;3;R$ 5,00;R$ 15,00;Sim
+27/03/2018;Etanol;4;R$ 4,02;R$ 3,33;R$ 16,08;R$ 13,32;R$ 2,76;17%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 5,00;R$ 0,00;Não
+19/08/2021;Gasolina;2;R$ 6,06;R$ 4,76;R$ 12,12;R$ 9,52;R$ 2,60;21%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;2;R$ 6,00;R$ 0,00;Não
+04/07/2018;Etanol;3;R$ 4,31;R$ 2,82;R$ 12,93;R$ 8,46;R$ 4,47;35%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;5;R$ 8,00;R$ 0,00;Não
+14/09/2025;Diesel;1;R$ 5,35;R$ 4,31;R$ 5,35;R$ 4,31;R$ 1,04;19%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;5;R$ 25,00;R$ 125,00;Sim
+10/08/2025;Etanol;3;R$ 3,84;R$ 3,01;R$ 11,52;R$ 9,03;R$ 2,49;22%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 406,00;Falta de troco;Com perda;Café;Bebidas;1;R$ 3,00;R$ 3,00;Sim
+04/12/2025;Diesel;4;R$ 5,74;R$ 4,50;R$ 22,96;R$ 18,00;R$ 4,96;22%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;4;R$ 8,00;R$ 0,00;Não
+04/04/2025;Etanol;1;R$ 3,85;R$ 3,25;R$ 3,85;R$ 3,25;R$ 0,60;16%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Refrigerante;Bebidas;5;R$ 8,00;R$ 0,00;Não
+26/01/2022;Diesel;4;R$ 5,45;R$ 4,07;R$ 21,80;R$ 16,28;R$ 5,52;25%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 4,00;R$ 0,00;Não
+22/10/2018;Gasolina;2;R$ 6,01;R$ 5,39;R$ 12,02;R$ 10,78;R$ 1,24;10%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;4;R$ 25,00;R$ 100,00;Sim
+18/02/2021;Etanol;4;R$ 4,39;R$ 2,63;R$ 17,56;R$ 10,52;R$ 7,04;40%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;3;R$ 7,00;R$ 0,00;Não
+20/03/2016;Diesel;5;R$ 5,40;R$ 4,91;R$ 27,00;R$ 24,55;R$ 2,45;9%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 6,00;R$ 0,00;Não
+09/04/2016;Diesel;2;R$ 5,55;R$ 4,02;R$ 11,10;R$ 8,04;R$ 3,06;28%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;4;R$ 6,00;R$ 24,00;Sim
+19/04/2023;Diesel;3;R$ 5,25;R$ 4,22;R$ 15,75;R$ 12,66;R$ 3,09;20%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;5;R$ 4,00;R$ 0,00;Não
+01/08/2016;Gasolina;3;R$ 5,78;R$ 4,53;R$ 17,34;R$ 13,59;R$ 3,75;22%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;4;R$ 6,00;R$ 0,00;Não
+25/08/2019;Etanol;3;R$ 3,69;R$ 2,82;R$ 11,07;R$ 8,46;R$ 2,61;24%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Cigarro;Conveniência;5;R$ 5,00;R$ 25,00;Sim
+03/06/2025;Etanol;4;R$ 4,35;R$ 2,66;R$ 17,40;R$ 10,64;R$ 6,76;39%;Ana;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;3;R$ 15,00;R$ 0,00;Não
+13/05/2024;Gasolina;1;R$ 5,88;R$ 5,27;R$ 5,88;R$ 5,27;R$ 0,61;10%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Energético;Bebidas;1;R$ 4,00;R$ 0,00;Não
+12/09/2023;Gasolina;4;R$ 6,30;R$ 5,18;R$ 25,20;R$ 20,72;R$ 4,48;18%;João;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;4;R$ 8,00;R$ 32,00;Sim
+13/03/2024;Etanol;2;R$ 4,44;R$ 3,02;R$ 8,88;R$ 6,04;R$ 2,84;32%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;5;R$ 5,00;R$ 0,00;Não
+04/04/2015;Gasolina;4;R$ 6,07;R$ 5,36;R$ 24,28;R$ 21,44;R$ 2,84;12%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 51,00;Vazamento;Com perda;Óleo Motor;Automotivo;4;R$ 30,00;R$ 0,00;Não
+16/07/2016;Etanol;4;R$ 3,74;R$ 3,29;R$ 14,96;R$ 13,16;R$ 1,80;12%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;2;R$ 3,00;R$ 0,00;Não
+13/08/2024;Diesel;2;R$ 5,58;R$ 4,29;R$ 11,16;R$ 8,58;R$ 2,58;23%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;3;R$ 10,00;R$ 30,00;Sim
+23/12/2016;Gasolina;4;R$ 6,19;R$ 4,96;R$ 24,76;R$ 19,84;R$ 4,92;20%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 293,00;Vazamento;Com perda;Água;Bebidas;5;R$ 6,00;R$ 0,00;Não
+22/10/2016;Gasolina;3;R$ 6,29;R$ 5,50;R$ 18,87;R$ 16,50;R$ 2,37;13%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;5;R$ 4,00;R$ 0,00;Não
+18/07/2016;Diesel;2;R$ 5,88;R$ 4,40;R$ 11,76;R$ 8,80;R$ 2,96;25%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;5;R$ 8,00;R$ 40,00;Sim
+05/03/2023;Gasolina;2;R$ 5,80;R$ 5,00;R$ 11,60;R$ 10,00;R$ 1,60;14%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Água;Bebidas;2;R$ 10,00;R$ 0,00;Não
+27/10/2024;Gasolina;1;R$ 5,76;R$ 5,04;R$ 5,76;R$ 5,04;R$ 0,72;13%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;5;R$ 15,00;R$ 0,00;Não
+17/05/2023;Etanol;5;R$ 3,95;R$ 3,23;R$ 19,75;R$ 16,15;R$ 3,60;18%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Sim;R$ 214,00;Desconto;Com perda;Limpador Parabrisa;Automotivo;1;R$ 3,00;R$ 0,00;Não
+20/05/2019;Diesel;5;R$ 5,57;R$ 4,67;R$ 27,85;R$ 23,35;R$ 4,50;16%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 3,00;R$ 0,00;Não
+02/11/2022;Gasolina;1;R$ 5,95;R$ 5,37;R$ 5,95;R$ 5,37;R$ 0,58;10%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;3;R$ 8,00;R$ 0,00;Não
+16/07/2016;Gasolina;4;R$ 5,57;R$ 5,48;R$ 22,28;R$ 21,92;R$ 0,36;2%;Pedro;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;1;R$ 15,00;R$ 0,00;Não
+20/06/2024;Gasolina;5;R$ 6,39;R$ 4,83;R$ 31,95;R$ 24,15;R$ 7,80;24%;Carlos;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;1;R$ 10,00;R$ 0,00;Não
+24/03/2020;Etanol;5;R$ 4,37;R$ 3,40;R$ 21,85;R$ 17,00;R$ 4,85;22%;Carlos;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;1;R$ 25,00;R$ 0,00;Não
+02/03/2018;Diesel;3;R$ 5,98;R$ 4,95;R$ 17,94;R$ 14,85;R$ 3,09;17%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;5;R$ 6,00;R$ 0,00;Não
+18/03/2024;Diesel;5;R$ 5,44;R$ 4,51;R$ 27,20;R$ 22,55;R$ 4,65;17%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 15,00;R$ 30,00;Sim
+25/06/2025;Gasolina;5;R$ 5,61;R$ 4,53;R$ 28,05;R$ 22,65;R$ 5,40;19%;Ana;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;3;R$ 4,00;R$ 12,00;Sim
+08/10/2023;Etanol;5;R$ 4,14;R$ 3,25;R$ 20,70;R$ 16,25;R$ 4,45;21%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;5;R$ 4,00;R$ 20,00;Sim
+10/01/2018;Gasolina;5;R$ 5,92;R$ 4,65;R$ 29,60;R$ 23,25;R$ 6,35;21%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;5;R$ 15,00;R$ 0,00;Não
+09/05/2015;Etanol;3;R$ 4,09;R$ 2,53;R$ 12,27;R$ 7,59;R$ 4,68;38%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 3,00;R$ 0,00;Não
+20/09/2016;Etanol;5;R$ 4,20;R$ 3,06;R$ 21,00;R$ 15,30;R$ 5,70;27%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;3;R$ 8,00;R$ 24,00;Sim
+04/11/2017;Diesel;1;R$ 5,62;R$ 4,34;R$ 5,62;R$ 4,34;R$ 1,28;23%;João;Manhã;Bomba 4;Gasolina;Ilha 2;Sim;R$ 57,00;Falta de troco;Com perda;Cigarro;Conveniência;5;R$ 15,00;R$ 75,00;Sim
+15/03/2022;Diesel;4;R$ 5,41;R$ 4,82;R$ 21,64;R$ 19,28;R$ 2,36;11%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 0,00;Não
+16/02/2022;Gasolina;5;R$ 6,45;R$ 5,42;R$ 32,25;R$ 27,10;R$ 5,15;16%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;1;R$ 15,00;R$ 0,00;Não
+20/12/2024;Diesel;3;R$ 5,45;R$ 4,29;R$ 16,35;R$ 12,87;R$ 3,48;21%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;4;R$ 30,00;R$ 0,00;Não
+13/09/2018;Etanol;1;R$ 3,94;R$ 2,59;R$ 3,94;R$ 2,59;R$ 1,35;34%;Marcos;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 7,00;R$ 0,00;Não
+19/01/2021;Gasolina;2;R$ 6,09;R$ 5,28;R$ 12,18;R$ 10,56;R$ 1,62;13%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 30,00;R$ 0,00;Não
+24/05/2023;Diesel;4;R$ 5,86;R$ 4,33;R$ 23,44;R$ 17,32;R$ 6,12;26%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 7,00;R$ 0,00;Não
+20/04/2024;Etanol;5;R$ 4,42;R$ 3,35;R$ 22,10;R$ 16,75;R$ 5,35;24%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;4;R$ 30,00;R$ 0,00;Não
+26/11/2020;Diesel;4;R$ 5,67;R$ 4,53;R$ 22,68;R$ 18,12;R$ 4,56;20%;Lucas;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Refrigerante;Bebidas;5;R$ 25,00;R$ 0,00;Não
+11/11/2021;Gasolina;4;R$ 5,84;R$ 4,96;R$ 23,36;R$ 19,84;R$ 3,52;15%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Energético;Bebidas;3;R$ 8,00;R$ 24,00;Sim
+14/12/2016;Gasolina;4;R$ 5,88;R$ 5,25;R$ 23,52;R$ 21,00;R$ 2,52;11%;Lucas;Noite;Bomba 1;Gasolina;Ilha 1;Sim;R$ 71,00;Erro abastecimento;Com perda;Chocolate;Alimentos;2;R$ 4,00;R$ 0,00;Não
+23/09/2025;Gasolina;4;R$ 5,85;R$ 5,48;R$ 23,40;R$ 21,92;R$ 1,48;6%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;2;R$ 6,00;R$ 0,00;Não
+18/01/2021;Gasolina;5;R$ 5,76;R$ 4,61;R$ 28,80;R$ 23,05;R$ 5,75;20%;João;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Energético;Bebidas;2;R$ 10,00;R$ 0,00;Não
+17/06/2021;Etanol;5;R$ 3,95;R$ 2,79;R$ 19,75;R$ 13,95;R$ 5,80;29%;Marcos;Tarde;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;2;R$ 10,00;R$ 0,00;Não
+07/02/2017;Gasolina;2;R$ 5,86;R$ 5,14;R$ 11,72;R$ 10,28;R$ 1,44;12%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;3;R$ 15,00;R$ 0,00;Não
+11/02/2020;Gasolina;3;R$ 6,25;R$ 5,10;R$ 18,75;R$ 15,30;R$ 3,45;18%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 3,00;R$ 0,00;Não
+11/02/2020;Etanol;1;R$ 4,42;R$ 2,58;R$ 4,42;R$ 2,58;R$ 1,84;42%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Limpador Parabrisa;Automotivo;5;R$ 5,00;R$ 25,00;Sim
+06/03/2018;Diesel;4;R$ 5,01;R$ 4,66;R$ 20,04;R$ 18,64;R$ 1,40;7%;Carlos;Manhã;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;3;R$ 6,00;R$ 0,00;Não
+22/01/2019;Gasolina;5;R$ 5,81;R$ 5,48;R$ 29,05;R$ 27,40;R$ 1,65;6%;Pedro;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Óleo Motor;Automotivo;1;R$ 3,00;R$ 0,00;Não
+15/10/2019;Gasolina;1;R$ 6,32;R$ 4,75;R$ 6,32;R$ 4,75;R$ 1,57;25%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Aditivo;Automotivo;2;R$ 8,00;R$ 0,00;Não
+28/12/2025;Diesel;5;R$ 5,00;R$ 4,72;R$ 25,00;R$ 23,60;R$ 1,40;6%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Sim;R$ 185,00;Vazamento;Com perda;Energético;Bebidas;4;R$ 3,00;R$ 0,00;Não
+12/03/2022;Gasolina;3;R$ 6,26;R$ 5,21;R$ 18,78;R$ 15,63;R$ 3,15;17%;Pedro;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;3;R$ 10,00;R$ 30,00;Sim
+08/01/2021;Gasolina;1;R$ 6,03;R$ 5,20;R$ 6,03;R$ 5,20;R$ 0,83;14%;Carlos;Manhã;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;4;R$ 7,00;R$ 0,00;Não
+05/04/2022;Etanol;3;R$ 3,62;R$ 2,56;R$ 10,86;R$ 7,68;R$ 3,18;29%;Carlos;Manhã;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Refrigerante;Bebidas;4;R$ 4,00;R$ 16,00;Sim
+03/03/2025;Diesel;4;R$ 5,04;R$ 4,37;R$ 20,16;R$ 17,48;R$ 2,68;13%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;1;R$ 5,00;R$ 0,00;Não
+01/06/2021;Diesel;2;R$ 5,04;R$ 4,92;R$ 10,08;R$ 9,84;R$ 0,24;2%;Pedro;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;2;R$ 30,00;R$ 0,00;Não
+27/12/2021;Etanol;4;R$ 3,71;R$ 3,42;R$ 14,84;R$ 13,68;R$ 1,16;8%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Falta de troco;Sem perda;Chocolate;Alimentos;3;R$ 7,00;R$ 0,00;Não
+28/01/2015;Etanol;4;R$ 3,64;R$ 3,06;R$ 14,56;R$ 12,24;R$ 2,32;16%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Óleo Motor;Automotivo;4;R$ 30,00;R$ 120,00;Sim
+03/07/2020;Diesel;1;R$ 5,54;R$ 4,93;R$ 5,54;R$ 4,93;R$ 0,61;11%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;4;R$ 4,00;R$ 0,00;Não
+10/05/2023;Gasolina;2;R$ 5,54;R$ 4,99;R$ 11,08;R$ 9,98;R$ 1,10;10%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;2;R$ 10,00;R$ 20,00;Sim
+23/11/2021;Gasolina;5;R$ 6,14;R$ 5,40;R$ 30,70;R$ 27,00;R$ 3,70;12%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;5;R$ 3,00;R$ 0,00;Não
+14/06/2021;Diesel;1;R$ 5,64;R$ 4,43;R$ 5,64;R$ 4,43;R$ 1,21;21%;Lucas;Noite;Bomba 6;Diesel;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Cigarro;Conveniência;5;R$ 10,00;R$ 0,00;Não
+19/06/2024;Diesel;5;R$ 5,29;R$ 4,68;R$ 26,45;R$ 23,40;R$ 3,05;12%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Salgadinho;Alimentos;5;R$ 10,00;R$ 0,00;Não
+15/07/2019;Etanol;4;R$ 3,82;R$ 2,56;R$ 15,28;R$ 10,24;R$ 5,04;33%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;3;R$ 8,00;R$ 0,00;Não
+02/12/2021;Diesel;3;R$ 5,95;R$ 4,68;R$ 17,85;R$ 14,04;R$ 3,81;21%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Café;Bebidas;1;R$ 30,00;R$ 0,00;Não
+19/05/2025;Gasolina;5;R$ 5,55;R$ 5,13;R$ 27,75;R$ 25,65;R$ 2,10;8%;Pedro;Noite;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Aditivo;Automotivo;4;R$ 4,00;R$ 0,00;Não
+14/06/2015;Gasolina;5;R$ 5,65;R$ 4,70;R$ 28,25;R$ 23,50;R$ 4,75;17%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Café;Bebidas;3;R$ 8,00;R$ 0,00;Não
+16/06/2017;Etanol;1;R$ 3,95;R$ 3,28;R$ 3,95;R$ 3,28;R$ 0,67;17%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Óleo Motor;Automotivo;4;R$ 15,00;R$ 60,00;Sim
+27/08/2023;Etanol;2;R$ 4,13;R$ 2,73;R$ 8,26;R$ 5,46;R$ 2,80;34%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Chocolate;Alimentos;5;R$ 6,00;R$ 30,00;Sim
+24/04/2022;Etanol;2;R$ 3,72;R$ 3,22;R$ 7,44;R$ 6,44;R$ 1,00;13%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Chocolate;Alimentos;3;R$ 30,00;R$ 0,00;Não
+06/07/2024;Gasolina;4;R$ 6,36;R$ 5,01;R$ 25,44;R$ 20,04;R$ 5,40;21%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Água;Bebidas;5;R$ 10,00;R$ 0,00;Não
+11/05/2018;Diesel;4;R$ 5,27;R$ 4,87;R$ 21,08;R$ 19,48;R$ 1,60;8%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 310,00;Desconto;Com perda;Salgadinho;Alimentos;4;R$ 3,00;R$ 12,00;Sim
+13/07/2021;Gasolina;2;R$ 5,62;R$ 4,85;R$ 11,24;R$ 9,70;R$ 1,54;14%;Pedro;Noite;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Desconto;Sem perda;Cigarro;Conveniência;2;R$ 15,00;R$ 0,00;Não
+07/12/2017;Diesel;3;R$ 5,58;R$ 4,40;R$ 16,74;R$ 13,20;R$ 3,54;21%;Carlos;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Cigarro;Conveniência;1;R$ 7,00;R$ 0,00;Não
+25/09/2022;Diesel;4;R$ 5,70;R$ 4,43;R$ 22,80;R$ 17,72;R$ 5,08;22%;João;Manhã;Bomba 1;Gasolina;Ilha 1;Não;R$ 0,00;Erro abastecimento;Sem perda;Energético;Bebidas;5;R$ 5,00;R$ 0,00;Não
+28/08/2016;Etanol;3;R$ 3,95;R$ 3,41;R$ 11,85;R$ 10,23;R$ 1,62;14%;Marcos;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;1;R$ 3,00;R$ 3,00;Sim
+06/01/2025;Gasolina;2;R$ 5,74;R$ 5,11;R$ 11,48;R$ 10,22;R$ 1,26;11%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Sim;R$ 61,00;Erro abastecimento;Com perda;Limpador Parabrisa;Automotivo;3;R$ 15,00;R$ 0,00;Não
+10/03/2019;Diesel;3;R$ 5,91;R$ 4,13;R$ 17,73;R$ 12,39;R$ 5,34;30%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 3,00;R$ 0,00;Não
+16/10/2015;Diesel;1;R$ 5,46;R$ 4,18;R$ 5,46;R$ 4,18;R$ 1,28;23%;Ana;Tarde;Bomba 2;Etanol;Ilha 1;Não;R$ 0,00;Vazamento;Sem perda;Café;Bebidas;3;R$ 8,00;R$ 24,00;Sim
+02/11/2025;Gasolina;3;R$ 6,37;R$ 5,38;R$ 19,11;R$ 16,14;R$ 2,97;16%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;2;R$ 6,00;R$ 12,00;Sim
+27/09/2020;Diesel;4;R$ 5,25;R$ 4,56;R$ 21,00;R$ 18,24;R$ 2,76;13%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;4;R$ 6,00;R$ 0,00;Não
+02/09/2016;Diesel;5;R$ 5,17;R$ 4,10;R$ 25,85;R$ 20,50;R$ 5,35;21%;Lucas;Noite;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;4;R$ 25,00;R$ 0,00;Não
+14/10/2019;Gasolina;4;R$ 5,67;R$ 5,34;R$ 22,68;R$ 21,36;R$ 1,32;6%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Vazamento;Sem perda;Chocolate;Alimentos;2;R$ 10,00;R$ 0,00;Não
+05/11/2018;Diesel;2;R$ 5,30;R$ 4,44;R$ 10,60;R$ 8,88;R$ 1,72;16%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;1;R$ 25,00;R$ 0,00;Não
+25/03/2016;Diesel;2;R$ 5,80;R$ 4,57;R$ 11,60;R$ 9,14;R$ 2,46;21%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Aditivo;Automotivo;4;R$ 15,00;R$ 0,00;Não
+08/11/2016;Diesel;4;R$ 5,29;R$ 4,29;R$ 21,16;R$ 17,16;R$ 4,00;19%;Marcos;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Desconto;Sem perda;Limpador Parabrisa;Automotivo;3;R$ 7,00;R$ 21,00;Sim
+25/05/2018;Diesel;2;R$ 5,15;R$ 4,94;R$ 10,30;R$ 9,88;R$ 0,42;4%;Ana;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Vazamento;Sem perda;Salgadinho;Alimentos;3;R$ 6,00;R$ 18,00;Sim
+07/02/2017;Diesel;2;R$ 5,38;R$ 4,83;R$ 10,76;R$ 9,66;R$ 1,10;10%;Marcos;Tarde;Bomba 1;Gasolina;Ilha 1;Sim;R$ 193,00;Vazamento;Com perda;Café;Bebidas;5;R$ 3,00;R$ 0,00;Não
+24/07/2016;Etanol;2;R$ 3,61;R$ 3,03;R$ 7,22;R$ 6,06;R$ 1,16;16%;Lucas;Noite;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Limpador Parabrisa;Automotivo;2;R$ 8,00;R$ 0,00;Não
+17/05/2021;Diesel;3;R$ 5,81;R$ 4,50;R$ 17,43;R$ 13,50;R$ 3,93;23%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Salgadinho;Alimentos;4;R$ 5,00;R$ 0,00;Não
+26/06/2019;Diesel;2;R$ 5,91;R$ 4,44;R$ 11,82;R$ 8,88;R$ 2,94;25%;Marcos;Tarde;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Desconto;Sem perda;Água;Bebidas;1;R$ 7,00;R$ 7,00;Sim
+08/12/2016;Diesel;1;R$ 5,29;R$ 4,44;R$ 5,29;R$ 4,44;R$ 0,85;16%;Ana;Tarde;Bomba 4;Gasolina;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;5;R$ 15,00;R$ 75,00;Sim
+19/02/2018;Etanol;1;R$ 4,07;R$ 2,84;R$ 4,07;R$ 2,84;R$ 1,23;30%;João;Manhã;Bomba 5;Etanol;Ilha 3;Não;R$ 0,00;Falta de troco;Sem perda;Salgadinho;Alimentos;2;R$ 8,00;R$ 0,00;Não
+23/04/2021;Gasolina;1;R$ 6,41;R$ 4,75;R$ 6,41;R$ 4,75;R$ 1,66;26%;Ana;Tarde;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Falta de troco;Sem perda;Aditivo;Automotivo;1;R$ 6,00;R$ 0,00;Não
+14/09/2020;Diesel;2;R$ 5,71;R$ 4,72;R$ 11,42;R$ 9,44;R$ 1,98;17%;Lucas;Noite;Bomba 5;Etanol;Ilha 3;Sim;R$ 257,00;Vazamento;Com perda;Salgadinho;Alimentos;2;R$ 6,00;R$ 0,00;Não
+07/03/2021;Diesel;5;R$ 5,54;R$ 4,75;R$ 27,70;R$ 23,75;R$ 3,95;14%;João;Manhã;Bomba 3;Diesel;Ilha 2;Não;R$ 0,00;Erro abastecimento;Sem perda;Óleo Motor;Automotivo;3;R$ 25,00;R$ 0,00;Não
